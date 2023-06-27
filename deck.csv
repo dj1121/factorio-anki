@@ -1,0 +1,2910 @@
+en;jp
+Unlocks;アンロック：
+Locks;ロック：
+AND;AND
+OR;OR
+__1__ __plural_for_parameter_1_{1=day|rest=days}__;__1__日
+__1__ __plural_for_parameter_1_{1=hour|rest=hours}__;__1__時間
+__1__ __plural_for_parameter_1_{1=minute|rest=minutes}__;__1__分
+__1__ __plural_for_parameter_1_{1=second|rest=seconds}__;__1__秒
+/s;/s
+/m;/m
+:;：
+k;k
+M;M
+G;緑
+T;T
+P;P
+E;E
+Z;Z
+Y;Y
+W;W
+J;J
+km/h;km/h
+__1__ ms;__1__ ミリ秒
+__1__ s;__1__ 秒
+__1__ m;__1__ 分
+__1__ h;__1__ 時間
+__1__s;__1__秒
+__1__m;__1__分
+__1__h;__1__時間
+None;None
+__1__ px;__1__ px
+__1__°;__1__°
+__1__ °C;__1__ °C
+__1__°C;__1__°C
+__1__ kB/s;__1__ kB/s
+__1__ MB/s;__1__ MB/s
+__1__ GB/s;__1__ GB/s
+Not enough ingredients.;必要な材料が不足しています。
+This recipe cannot be crafted by hand.;このレシピを手で作る事はできません。
+This recipe is too complex to be crafted by hand.;このレシピは手動製作するためには複雑すぎます。
+Left the vehicle.;降車
+Entered the vehicle.;乗車
+Vehicle is full.;トランクが満杯です。
+This cannot be damaged.;ダメージを与えることはできません。
+This cannot be mined.;採掘不可
+This cannot be rotated.;回転できません。
+Enemy structures cannot be repaired.;敵の建築物を修理することはできません。
+This cannot be mined while anyone is in it.;中にプレイヤーがいるので回収できません。
+Enemy structures cannot be mined.;敵の建築物を回収することはできません。
+Cannot open enemy structures.;敵の構造物を開くことはできません。
+Cannot transfer to enemy structures.;敵の構造物へ転送することはできません。
+Cannot transfer from enemy structures.;敵の構造物から転送することはできません。
+Cannot rotate enemy structures.;敵の構造物は回転できません。
+Cannot copy settings from enemy structures.;敵の構造物からコピーすることはできません。
+Cannot paste settings to enemy structures.;敵の構造物にペーストすることはできません。
+Enemy wires cannot be changed.;敵のワイヤーは変更できません。
+Cannot enter enemy vehicles.;敵の車両には乗れません。
+The character "__1__" cannot be part of the file name.;ファイル名に"__1__" という文字を含めることはできません。
+File name too long. (Max __1__ characters);ファイル名が長すぎます。(最大 __1__ 文字)
+Invalid character in the file name.;ファイル名に無効な文字が含まれています。
+The file name is empty.;ファイル名が空です。
+The stop name is empty;駅名が空です
+The train stop name (__1__ characters) cannot be longer than __2__ characters.;駅名(__1__文字) は __2__文字以内で指定してください。
+The tag name (__1__ characters) cannot be longer than __2__ characters.;タグ(__1__文字)は__2__文字以内で指定してください。
+Reload script data is too large: __1__ > __2__.;リロードスクリプトデータが大きすぎます: __1__ > __2__
+Stop;無名停車駅
+This control has to be mouse-related.;この操作はマウスに関連付ける必要があります。
+This control has to be keyboard-related.;この操作はキーボードと関連付ける必要があります。
+This control has to be from a mouse wheel.;マウスホイールから行う必要があります。
+This control has to be from a controller button.;コントローラボタンから行う必要があります。
+This control has to be from a controller trigger button.;コントローラのトリガーボタンから行う必要があります。
+This control has to be from a controller stick.;コントローラスティックから行う必要があります。
+No path;到達経路が見つかりません。
+[img=utility/warning_icon] Destination full __1__;[img=utility/warning_icon]__1__の列車数が上限
+Not enough rails;レールが不足しています
+You cannot set this filter: __1__;__1__をフィルターに設定することはできません
+You cannot modify requests when they are set by the circuit network.;回路ネットワークで設定している場合は、要求を変更できません。
+__1__ is already requested in a different slot.;__1__ はすでに別のスロットで要求されています。
+__1__ is already filtered in a different slot.;__1__は既に違うスロットでフィルター設定されています。
+__1__ is already set in a different slot.;__1__は既に違うスロットに設定されています。
+Cannot connect rolling stock: not in vehicle.;車両外から車両を連結することはできません。
+Cannot connect rolling stock: not in rolling stock.;車両外から車両を連結することはできません。
+Cannot connect rolling stocks: rolling stocks too close to each other.;鉄道車両同士が近すぎるため連結できません。
+Rolling stock connected.;車両が接続されました。
+No rolling stock found to connect.;連結する鉄道車両がありません。
+Cannot disconnect rolling stock: not in vehicle.;車両外から車両を切り離すことはできません。
+Cannot disconnect rolling stock: not in rolling stock.;車両外から車両を切り離すことはできません。
+Rolling stock disconnected.;車両を切り離しました。
+No rolling stock found to disconnect.;切り離す鉄道車両がありません。
+Not enough space to connect train.;鉄道を連結するためのスペースが足りません.
+This cannot be mined by hand because it requires __1__.;採掘するためには__1__が必要なため、手で採掘することはできません。
+Unknown command __1__;不明なコマンド __1__
+Player __1__ doesn't exist.;__1__ は存在しません。
+__1__ isn't online.;__1__ はオンラインではありません。
+Replay saving disabled: map saved with version __1__ and current version is __2__.;リプレイの保存が無効です。起動中のバージョン (__2__) と異なるバージョン (__1__) で保存されたマップです。
+Replay saving disabled: map save has different mod settings.;リプレイの保存が無効です。MODの設定が異なります。
+Replay saving disabled: map save has different mod startup settings.;リプレイの保存が無効です。MODのスタートアップ設定が異なります。
+Replay saving disabled: map migration(s) have been applied.;リプレイの保存が無効です。マップ移行が適用されています。
+Replay saving has been disabled as the user forced prototype changed loading mode.;ユーザーが変更されたプロトタイプのロードを強制したため、再生の記録が無効になりました。
+Replay saving has been disabled.;リプレイのセーブが無効です、
+Replays are currently disabled because autoplace specifications have been changed during runtime.;ランタイム中に自動資源配置の仕様が変更されたので、リプレイは現在無効になっています。
+No one to reply to.;応答がありません。
+Loading mods;Mod を読込中
+Building sprite atlas...;スプライトアトラスを構築中…
+Building prototypes...;プロトタイプを構築中…
+Checking sprites...;スプライトをチェック中…
+Cropping bitmaps...;ビットマップをトリミング中...
+Loading sprites...;スプライトを読込中…
+Loading sounds...;音声を読込中…
+Base Mod is required to run the game, but it is currently disabled. Do you want to enable it?;Base Modはゲームを実行するのに必要ですが、現在無効化されています。有効化しますか？
+Base Mod is required to run the game, but it is currently invalid.;Base Modはゲームを実行するのに必要ですが、現在無効になっています。
+Error loading Base Mod.;Base Mod読み込みエラー.
+Failed to load mod "__1__";MOD「__1__」の読み込みに失敗しました
+Failed to load mod "__1__": __2__;Mod"__1__"の読み込みに失敗しました: __2__
+Cannot run command (__1__) - you are not an admin.;コマンド(__1__)を実行できません―管理者権限がありません。
+Cannot run command (__1__) in a singleplayer game.;このコマンド (__1__) はシングルプレイでは実行できません。
+__1__ was banned by __2__. Reason: __3__.;__1__は__2__にBANされました。理由：__3__
+__1__ (not on map) was banned by __2__. Reason: __3__.;__1__(マップ上にいない)は__2__にBANされました。理由：__3__
+unspecified;未指定
+__1__ was kicked by __2__. Reason: __3__.;__1__は__2__にキックされました。理由：__3__
+No players are banned.;BANされたプレイヤーはいません。
+__1__ for __2__;__1__ 理由: __2__
+__1__ (__2__) for __3__;__1__ (__2__) : __3__
+__1__ is already an admin.;__1__はすでに管理者になっています。
+__1__ was promoted to admin by __2__.;__1__ は、__2__ によって管理者に昇格しました。
+__1__ is not an admin.;__1__は管理者ではありません。
+__1__ was demoted from admin by __2__.;__1__ は、__2__ によって管理者から降格しました。
+__1__ is already in the admin list and will be promoted upon joining the game.;__1__は既に管理者リストに載っており、ゲーム参加時に昇格されます。
+__1__ was added to the admin list by __2__ and will be promoted upon joining the game.;__1__は__2__によって管理者リストに追加され、ゲーム参加時に昇格されます。
+__1__ is not in the admin list.;__1__は管理者リストに載っていません。
+__1__ was removed from the admin list by __2__ and will no longer be promoted upon joining the game.;__1__は__2__によって管理者リストから削除され、ゲーム参加時に昇格されなくなります。
+__1__ was unbanned by __2__.;__1__は__2__によってBANを解除されました。
+Cannot unban __1__ as the player is not banned.;__1__はBANされていないためBANの解除ができません。
+Color can only be set for players.;色の指定はプレイヤー以外にはできません。
+Invalid parameter;無効なパラメータ
+Invalid screenshot resolution. Width and height has to be from range {1, __1__}.;スクリーンショットの解像度が不正です。幅と高さは{1, __1__}の範囲である必要があります。
+Invalid zoom level. Zoom has to be greater than or equal to __1__.;不正なズームレベルです。__1__以上に設定する必要があります。
+__1__'s color is now __2__.;__1__の色は__2__に変更されました。
+Your color is now __1__.;あなたの色は__1__になりました。
+Unknown color __1__.;不明な色: __1__.
+Using Lua console commands will disable achievements. Please repeat the command to proceed.;Luaコンソールコマンドを使うと実績が解除されなくなります。実行するにはもう一度コマンドを入力してください。
+Using the Map Editor will disable achievements. Please repeat the command to proceed.;マップエディタを使うと実績が解除されなくなります。実行するにはもう一度コマンドを入力してください。
+Using the cheat command will disable achievements. Please repeat the command to proceed.;チートコマンドを使うと実績が解除されなくなります。実行するにはもう一度コマンドを入力してください。
+Player __1__ tried using the command "__2__".;プレイヤー __1__ は、コマンド"__2__"の実行を試みました
+Player __1__ tried using the Map Editor.;プレイヤー__1__はマップエディタの使用を試みました.
+Player __1__ tried using the cheat command.;プレイヤー__1__はチートコマンドの実行を試みました.
+__1__ (command): __2__;__1__ (コマンド): __2__
+__1__ tried to run a command, which isn't allowed for them: __2__;__1__はコマンドを実行しようと試みましたが、権限がありません: __2__
+__1__ started research __2__;__1__ が __2__ の研究を開始しました。
+__1__ queued research __2__;__1__は__2__を研究予約しました。
+__1__ changed research from __2__ to __3__;__1__は研究を__2__から__3__に変更しました。
+__1__ canceled research __2__;__1__ が __2__ の研究をキャンセルしました。
+Cannot swap console with player: Expected 2 players when called from console.;コンソールとプレイヤーを交換することはできません : コンソール操作の場合は、2 人のプレイヤーを指定する必要があります。
+Cannot swap: Expected 2 players when called from console.;交換できません : コンソール操作の場合は、2人のプレイヤーを指定する必要があります。
+User verification has been disabled.;ユーザー認証が無効になりました。
+User verification has been enabled.;ユーザー認証が有効になりました。
+User verification is already disabled.;ユーザー認証はすでに無効です。
+User verification is already enabled.;ユーザー認証はすでに有効です。
+Transferring blueprint: __1__;建設計画を転送中: __1__
+Untitled;題名未設定
+Item has tags.;アイテムにはタグがあります。
+Failed to import string: __1__.;コードのインポートに失敗しました: __1__
+Permissions imported successfully.;権限は正常に読み込まれました。
+Error while importing string:;コードのインポートエラー:
+__1__ imported successfully.;__1__ を正常にインポートしました。
+Input produced no item.;入力文字列は項目を生み出しませんでした。
+Mod settings cannot be opened when the game isn't fully setup (joining a paused multiplayer game).;ゲームの設定が完全でない場合 (一時停止中のマルチプレイへの参加)、 modの設定を開くことはできません。
+Continue;続行
+Disabled by server;サーバーで無効化
+Game has been saved to __1__.;ゲームは__1__にセーブされました。
+No artillery with ammo in range.;範囲内に弾薬がある長距離砲がありません。
+No artillery in range.;範囲内に長距離砲がありません。
+Saving process crashed.;保存プロセスがクラッシュしました
+Cannot swap players with yourself.;自分自身を入れ替えることはできません。
+Cannot swap players: One or both of them does not have a character.;交換することができません: 片方、もしくは両方がキャラクターを持っていません。
+Cannot swap players: Character does not have a controller.;交換することができません: キャラクターがコントローラーを持っていません。
+Cannot swap players: players are on different surfaces.;プレイヤーを交換できません：プレイヤーは別のサーフェスにいます。
+Can only join a Steam game while in the Main Menu.;メインメニューからのみSteamゲームに参加できます。
+Unable to join game: Steam networking is disabled in the config settings.;ゲームに参加できません : Steamネットワーキングが設定で無効になっています。
+Unable to join game using Steam networking: Steam is not initialized correctly. Steam-related features are disabled. Restarting Steam usually fixes this issue. Do you want to try to join using non-Steam networking?;Steamネットワークを利用してゲームに参加できません : Steamが正しく初期化されていません。Steamの関連機能が無効になっています。Steamを再起動することで通常は解決します。Steamネットワークを利用せずゲームに参加することを試みますか？
+Closing file __1__ failed.\nReason: __2__.;ファイル __1__ を閉じることができませんでした。\n理由: __2__。
+Other, error code: __1__;その他、エラー コード: __1__
+CRC check failed: The zip is corrupted.;CRCチェックに失敗しました: zipファイルが破損しています。
+Reading file __1__ failed.\nError code: __2__.;ファイル __1__ の読み込みに失敗しました。\nエラーコード: __2__。
+The mod __1__ caused a non-recoverable error.\nPlease report this error to the mod author.\n\n__2__;__1__のMODが回復不能なエラーを発生させました。\nMOD作成者にこのエラーを報告してください。\n\n__2__
+The scenario __1__ caused a non-recoverable error.\nPlease report this error to the scenario author.\n\n__2__;__1__のシナリオが回復不能なエラーを発生させました。\nシナリオ作成者にこのエラーを報告してください。\n\n__2__
+__1__\nAn error handler added the following information:\n__2__;__1__\nエラーハンドラは次の情報を追加しました:\n__2__
+__1__\nWhile handling this, an error handler caused another error:\n__2__;__1__\nこれを扱っている間、エラーハンドラは別のエラーを発生させます:\n__2__
+Cannot reach;到達不可能
+Missing __1__;__1__ がありません
+Missing equipment:;装備がありません:
+__1__ X __2__;__1__ X __2__
+Wire cannot reach;ケーブルが届きません
+Cannot connect to wire;ケーブルを接続できません
+Cannot connect to electric wire;銅線を接続できません
+Manual wire dragging disabled;手動ワイヤ移動を無効化しました。
+Max of 5 connections reached.;最大接続数の5に到達しています。
+Not operable;操作不可
+Cannot be crafted in this machine.;この機械で製作することはできません。
+Cannot mix fluids.;流体を混合できません。
+A player with the name __1__ already exists.;__1__という名前のプレイヤーが既に存在します。
+Reset __1__ __plural_for_parameter_1_{1=option|rest=options}__ to __plural_for_parameter_1_{1=default|rest=defaults}__;__1__のオプションをデフォルトにリセット
+All options have default values.;全てのオプションは標準値です。
+There are unconfirmed changes.;保存されていない変更があります。
+Discard changes;変更を破棄
+This shortcut requires the __1__ technology.;このショートカットを利用するには__1__の研究が必要です。
+Cannot dock more items to the shortcut bar.;ショートカットバーにこれ以上項目を登録できません。
+Cannot put away the __1__. Player inventory is full.;__1__を格納できません。プレイヤーのインベントリが一杯です。
+Cannot return item back: __1__;アイテムを返品できません: __1__
+Reverted control settings to the default bindings due to incompatibility with previous versions.;過去のバージョンと互換性がないため操作設定をデフォルトに戻しました。
+The target of this shortcut to the blueprint library is no longer present.;建設計画ライブラリへのショートカットの参照先が存在しません。
+This feature is not available in the demo version of the game;この機能はデモバージョンのゲームでは利用できません。
+Press __CONTROL__confirm-message__ to skip cutscene;__CONTROL__confirm-message__を押してカットシーンをスキップします
+__1__ (remnant);__1__（残骸）
+__1__ (dying explosion);__1__（爆発破片）
+Blueprint record is being transferred into the game, try again when the transfer is finished.;記録がゲームに転送されています。転送が完了したら、もう一度お試しください。
+No new content selected.;新しいコンテンツが選択されていません。
+Cannot insert item, the maximum book recursion is __1__.;本の中に本を入れることはできません。本の最大再帰は __1__ です。
+__1__ is an invalid snap to grid value.;__1__ は自動調整することはできません。
+__1__ is an invalid grid position value.;__1__ は自動調整することはできません。
+Snap to grid value for this blueprint has to be multiple of __1__.;この建設計画をマス目に対して自動調整させるには、 __1__ の倍数でなければなりません。
+Grid position value for this blueprint has to be multiple of __1__.;この建設計画をマス目に対して自動調整させるには、 __1__ の倍数でなければなりません。
+Grid position and blueprint grid position coordinates need to be either all even or all odd.;グリッド位置と建設計画のグリッド位置座標は、すべて偶数もしくは奇数でなければなりません。
+The item was removed.;このアイテムは削除されています。
+Cursor;カーソル
+On the ground;地面に
+Cannot save because a save is already in progress.;保存処理が既に実行中のため保存できません。
+Bonus production: __1__;ボーナス生産量: __1__
+No modifier selected;MODが選択されていません
+New tips;新しいヒント
+New tips: __1__;新しいヒント: __1__
+Blueprint with __1__ cannot be flipped.;__1__が含まれる建設計画は反転できません。
+Mod __1__ has name that is too long, maximum mod name length is __2__ characters.;Mod __1__ の名前が長すぎます。Mod名の最大文字数は __2__ 文字です。
+Mod __1__ has title that is too long, maximum mod title length is __2__ characters.;Mod __1__ のタイトルが長すぎます。Modタイトルの最大文字数は __2__ 文字です。
+Cannot build here;ここには配置できません
+__1__ is in the way;そこには __1__ があります
+__1__ ghost is in the way;__1__の仮設置があります。
+Character is in the way;そこにはキャラクターが居ます
+Cannot build on __1__;__1__ には配置できません
+Cannot build outside of the map;マップの外には配置できません
+Rail signals must be built next to rails;列車用信号はレールの横に配置する必要があります
+__1__ must be built next to rails;__1__はレールの横に配置する必要があります
+Too close to existing rail signal;他の列車用信号に近すぎます
+Invalid rail signal position;無効な列車用信号の位置
+Invalid belt position;ベルト位置が無効
+Invalid train stop position;無効な駅の位置
+Cannot build train stop in intersection;交差点には駅を設置できません
+__1__ can only be built on resources;__1__は資源の上にのみ設置可能です
+Mining drills must be built on resources;掘削機は資源上に配置する必要があります
+__1__ cannot mine this resource;__1__ではこの資源を採掘できません。
+Train ghosts must be built on rails;列車はレールの上で仮設置する必要があります
+__1__ must be built on rails;__1__はレールに配置する必要があります
+Cannot connect systems with different fluids;別種の流体システム同士は接続できません
+Cannot build in fog of war.;未探査領域には設置できません。
+Cannot build in an uncharted area;未知のエリアには建設できません
+Download failed (status code __1__): __2__;ダウンロードに失敗しました (ステータスコード __1__): __2__
+Server returned error: __1__;ダウンロードに失敗しました (ステータスコード __1__)。
+Couldn't parse the response from the auth server. This seems to be an internal server error.;ダウンロードに失敗しました (ステータスコード __1__): JSONレスポンスの解析に失敗しました: __2__
+Download failed (status code __1__): auth error: __2__;ダウンロードに失敗しました (ステータスコード __1__): 認証エラー: __2__
+Download failed (status code __1__): auth error.;ダウンロードに失敗しました (ステータスコード __1__): 認証エラー。
+Unexpected character (__1__) at __2__:__3__;__2__:__3__に予期せぬ文字(__1__)
+Unexpected end of file at __1__:__2__;__1__で予期せぬファイルの終了: __2__
+Invalid comma before ']' at __1__:__2__;__1__で']'以前に不正なカンマ: __2__
+Invalid comma before '}' at __1__:__2__;__1__で'}'以前に不正なカンマ: __2__
+Unterminated string at __1__:__2__;__1__の文字列が終端されていない:__2__
+Invalid UTF-16 low surrogate in JSON string escapes at __1__:__2__;__1__のJSON文字列エスケープで無効なUTF-16下位サロゲート:__2__
+Unexpected UTF-16 low surrogate in JSON string escapes at __1__:__2__;__1__のJSON文字列エスケープで予期せぬUTF-16下位サロゲート:__2__
+Invalid string escape at __1__:__2__;__1__で無効な文字列エスケープ:__2__
+Unterminated section header at __1__:__2__;__1__のセクションヘッダが終端されていない:__2__
+Missing value at __1__:__2__;__1__に値がありません: __2__
+Failed to create an application window. __1__;アプリケーションウィンドウを作成できませんでした。__1__
+Initialization failed. Error code: __1__;初期化に失敗しました。エラーコード: __1__
+Failed to load window icon! File path: __1__;ウィンドウアイコンの読み込みに失敗しました！ ファイルパス: __1__
+Unable to create sprite (size __1__x__2__), probably not enough video memory (VRAM).;サイズ__1__x__2__のスプライトを作成できません。ビデオメモリー(VRAM)が不足している可能性があります。
+Operation failed;操作に失敗しました
+Failed to start the game;ゲームの起動に失敗しました
+Error;エラー
+Unexpected error occurred. If you're running the latest version of the game, you can help us resolve the problem by posting the contents of the log file on the Factorio forums.\nPlease also include the save file(s), any mods you may be using, and any steps you know of to reproduce the crash.;予期せぬエラーが発生しました。最新バージョンのゲームを起動している場合、Factorioのフォーラムにログファイルを投稿することで問題の分析に協力できます。\nセーブファイル・使用しているMOD構成・エラーを再現できる手順も併せて投稿してください。
+Setting sprite resolution option (high -> normal). Please restart the game.;スプライト解像度のオプションを設定しました(高->普通)。ゲームを再起動してください。
+Setting bitmap caching option (all -> high). Please restart the game.;ビットマップキャッシュのオプションを設定しました(全て->高)。ゲームを再起動してください。
+Setting bitmap caching option (high -> medium). Please restart the game.;ビットマップキャッシュのオプションを設定しました(高->普通)。ゲームを再起動してください。
+Turning low VRAM mode on. Please restart the game.;低 VRAM モードをONに切り替えました。ゲームを再起動してください。
+Setting bitmap caching option (medium -> low). Please restart the game.;ビットマップキャッシュのオプションを設定しました(普通->低)。ゲームを再起動してください。
+Turning low graphics options on. Please restart the game.;低グラフィックオプションをオンに切り替えました。ゲームを再起動してください。
+Low graphics mode and bitmap caching level low are already on. This means that your system hardware is below the minimum requirements. If you believe this is an issue with the game, please report it on our forums.;低グラフィックスモードおよび低レベルビットマップキャッシュはすでに有効です。あなたのシステムハードウェアは最小要件を下回っているということです。これがゲーム側の問題だと考えているならば、フォーラムに報告してください。
+Audio error;オーディオエラー
+Couldn't initialize audio. Audio is disabled.;オーディオを初期化できなかったため、オーディオは無効化されました。
+Data error;データエラー
+Failed to load the player data file. Campaign progress might be lost.;プレイヤーデータファイルの読み込みに失敗しました。キャンペーンの進捗は失われた疑いがあります。
+Failed to load local achievement data. Local achievements might be lost.;ローカル実績データの読み込みに失敗しました。ローカル実績は失われた疑いがあります。
+Configuration file has invalid contents. Do you want to reset it?;設定ファイルは無効なコンテンツを含んでいます。リセットしますか？
+Failed to load save file.;セーブファイルの読み込みに失敗しました。
+Detected corruption of the game state. Game was not saved to prevent corruption of your save files.;ゲームの状態に破損が検出されました。セーブファイルの破損を防ぐため、ゲームはセーブされていません。
+Detected corruption of the game state. You won't be able load the save game.;ゲームの状態に破損が検出されました。セーブを読み込むことは出来ません。
+Cannot play replay: replay data was not found.;リプレイを再生できません。リプレイデータが見つかりませんでした。
+Replay header cannot be loaded. It is probably older than the current version __1__.;リプレイヘッダが読み込めません。おそらく現在のバージョン__1__より古いものです。
+Replay header cannot be loaded due to the following error:;以下の理由からリプレイヘッダを読み込めません:
+Cannot play replay: it was created in version __1__, but current version is __2__.;リプレイを再生できません。リプレイはバージョン__1__で作られたものですが、現在のバージョンは__2__です。
+Cannot play replay: it has a different mod configuration.;リプレイを再生できません。MODの設定が異なります。
+Value out of range: valid values are __1__ through __2__ inclusive.;範囲外の値: __1__ から __2__ が有効です。
+You have only __1__ MB of free space left in Steam Remote Storage. If you run out of available space, the game might not be able to store your configuration and blueprint library, and you might lose your progress if you rely on Steam Cloud for synchronizing save files between computers.\nWe recommend you delete some old save files using delete button in Load Game dialog to free up space.;Steamリモートストレージに空き容量が __1__ MBしか残っていません。 空き容量が不足している場合、設定やブループリントライブラリを保存できない可能性があります。 コンピュータ間のセーブファイルを同期させるためにSteam Cloudを使用すると、進行状況が失われる可能性があります。 \n「ロードゲーム」ダイアログの「削除」ボタンを使用して、古いセーブファイルを削除しスペースを解放することをお勧めします。
+Low available space in Steam Remote Storage warning;Steamリモートストレージの空き容量が少なくなっています
+This map can not be loaded in the demo version of the game.;このマップはデモバージョンではロードできません
+Map version __1__ cannot be loaded because it is lower than the minimum input version (__2__).;読み込める最小バージョン(__2__)よりも古いデータなので、バージョン__1__のデータを読み込めません。
+Map version __1__ cannot be loaded because it is higher than the game version (__2__).;このバージョン(__2__)のFactorioよりも新しいデータなので、バージョン__1__のデータを読み込めません。
+Campaign '__1__' was retired from the game. You can load this save in game version __2__.;キャンペーン '__1__' はゲームから除去されており読込出来ませんでした。このセーブデータはバージョン を'__2__'にすることでロードできます。
+Cannot save map: __1__;マップを保存できません: __1__
+Died;死亡
+__1__ ago;__1__前
+Name;名前
+Remaining time;残り時間
+Killed by;死因
+Ghost controller;ゴーストコントローラー
+Character;キャラクター
+God controller;ゴッドコントローラー
+Editor;エディタ
+Pause;一時停止
+Cutscene controller;アニメーション コント ローラー
+Spectator controller;観客コント ローラー
+Tree;木
+- Prints a list of game admins.;- 管理者の一覧を出力します。
+<enable/disable/mute/unmute> <alert> - Enables, disables, mutes, or unmutes the given alert type.;<enable/disable/mute/unmute> <alert> - 指定したアラートを有効化、無効化、ミュート、ミュート解除します。
+All players:;全プレーヤー:
+Available alerts: __1__.;使用可能なアラート: __1__。
+Available colors: __1__.;利用可能な色: __1__
+Ban;BAN
+Banlist;Banリスト
+- Prints a list of banned players.;- BANされているプレイヤーの一覧を出力します。
+The banlist command cannot be used in a singleplayer game.;banlistコマンドはシングルプレイでは使用できません。
+The permissions command cannot be used in a singleplayer game.;permissions コマンドはシングルプレイでは使用できません。
+The whitelist command cannot be used in a singleplayer game.;whitelistコマンドはシングルプレイでは使用できません。
+Clear;クリア
+Color;色
+Command;Command
+- Opens the server configuration GUI.;- サーバ設定GUIを開きます。
+<player> - Deletes the blueprint library storage for the given offline player from the save file. Enter "everybody confirm" to delete the storage of all offline players.;<プレイヤー> - 指定されたオフラインプレイヤーの建設計画ライブラリストレージを保存ファイルから削除します。 "everybody confirm"を入力すると、すべてのオフラインプレイヤーのストレージを削除します
+Demote;降格
+Evolution;進化
+Type /h <command> to get details of it.;/h <command> で詳細を取得します。
+Available options are: __1__.;利用可能なオプション: __1__
+<command> - Prints a list of available commands. The optional argument can specify the command that should be described.;<command> - 使用可能なコマンドのリストを出力します。オプション引数で記述されるコマンドを指定できます。
+<player> - Prevents the chat from showing messages from this player. Admin messages are still shown.;<player> - このプレイヤーからのチャット発言が表示されなくなります。管理者メッセージは表示されます。
+- Prints a list of ignored players.;- 無視(ignore)しているプレイヤーの一覧を出力します。
+Kick;キック
+Matching alerts: __1__.;一致するアラート: __1__。
+Matching colors: __1__.;一致する色: __1__。
+Matching commands:;該当するコマンド:
+Matching players:;該当するプレイヤー名:
+<command> - Executes a Lua command (if allowed) and measures time it took.;<command> - (許可されている場合)Lua コマンドを実行し、それにかかった時間を測定します。
+<mute/unmute> <local/everyone> - Mutes or unmutes the global sounds created by the Programmable Speaker. Use "local" to mute just the local client. Admins can use "everyone" to mute the sounds for everyone on the server.;<mute/unmute> <local/everyone> - プログラマブルスピーカーの音をミュートまたはミュート解除します。localを指定するとこのクライアントだけ適用されます。管理者のみeveryoneを指定するとサーバーに接続しているすべてのクライアントに適用できます。
+Mute;ミュート
+- Prints a list of all players that are muted (cannot talk in chat).;- ミュート(チャット不可)された全てのプレイヤーリストを出力します。
+<player> - Opens another player's inventory.;<player>- 別のプレイヤーのインベントリを開きます。
+- Number of ticks/updates used to average performance counters. The default is 100. A value of 5-10 is recommended for fast convergence, but numbers will jitter more rapidly.;- パフォーマンスカウンターの平均化に用いられるtick/アップデートの数。既定値は100です。高速な更新には5-10の値が推奨されますが、数値がより激しく変動するようになります。
+- Opens the permissions GUI.;- 権限GUIを開きます。
+Admin;管理者
+Players;参加者
+Promote;昇格
+Purge;隔離
+Quit map editor;マップエディターの終了
+<message> - Replies to the last player that whispered to you.;<message> - 最後に自分宛にささやいたプレイヤーへ返信します。
+Save;保存
+<x resolution> <y resolution> <zoom> - Takes a screenshot with your current view settings, or with the specified resolution. Zoom is optional and defaults to 1.;<横方向解像度> <縦方向解像度> <ズーム> - 現在の表示設定、または指定した解像度でスクリーンショットを撮影します。ズームは省略可能で、デフォルトでは1です。
+- Prints the starting map seed.;マップのシード値を出力します。
+- Server console commands.;- サーバーコンソールコマンド
+- Saves the game on the server in a multiplayer game.;- マルチプレイ時にゲームをサーバにセーブします。
+shout;全体チャット
+<command> - Executes a Lua command (if allowed) without printing it to the console.;<command> - コンソールに出力せずに Lua コマンドを実行します (許可されている場合)。
+<player> <player> - Swaps characters between the specified players. If not given, the second player is yourself.;<player> <player> - 指定されたプレイヤー間の文字を入れ替えます。指定されていない場合は、2番目のプレイヤーは自分自身です。
+- Prints info about how old the map is.;- マップの経過時間についての情報を出力します。
+- Toggles logging of all input actions performed by the game. This value doesn't persist following game restarts and only effects your local game in multiplayer sessions.;- ゲームで実行されたすべての入力作業の記録を切り替えます。この値は、ゲームの再開時に保持されず、マルチプレイヤーセッションでローカルゲームにのみ影響を与えます。
+- This command is to be used with caution as it will make the game multiplayer unplayable once set. The game starts to save and compare the game with itself every tick to search for inconsistencies in the determinism. This command is advised to be used when there is a desync loop when a new player joins the server. The heavy mode will run until it outputs something. Please provide it to us so we can investigate and fix the problem.;- このコマンドは注意して使用してください。一度セットするとマルチプレイはできなくなります。ゲームは1 tickごとにセーブされ、決定論的矛盾を探すため比較するのに使用されます。このコマンドを使うべき状況は新しいプレイヤーがサーバーに参加して、desyncループが発生した場合です。ヘビーモードは何らかの結果が得られるまで継続します。問題を調査・解決できるよう、実行結果を開発チームに提供してください。
+Unban;BAN解除
+<player> - Allows the chat to show messages from this player.;<player> - このプレイヤーのチャット発言を表示します。
+Unmute;ミュート解除
+Version;バージョン
+whisper;個人会話
+Whitelist;ホワイトリスト
+<all> - Researches all technologies and enables cheat mode. Using the <all> option also gives the player some additional items.;<all> - 全ての技術を研究完了状態にし、チートモードをオンにします。<all>オプションが指定された場合、追加でアイテムを得ます。
+- Unlocks all shortcut bar items.;- ショートカットバーの項目を全てアンロックします。
+Unlocks all tips and trick entries.;すべてのヒントとこつのロックを解除します。
+Resets the state of the tips and tricks as if the game was just started for the first time.;ゲームが初めて開始された時点にヒントをリセットします。
+Failed to load mods: __1__;あなたのmodのスタートアップ設定が、接続先のサーバーの設定と一致しません。\n\nサーバーのスタートアップ設定を適用してゲームを再開しますか？
+Tags;タグ
+<number> - Sets the time (in minutes) a player has to be inactive before they are auto-kicked. 0 means disabled.;<number> - プレーヤーが自動キックされる前に非アクティブにしなければならない時間 (分) を設定します。0 は無効を意味します。
+Allow Lua commands;Luaコマンドの許可
+Allow debug settings: __1__.;デバッグ設定を許可: __1__。
+Autosave interval;オートセーブの間隔
+Autosave only on server;オートセーブはサーバ上のみ
+Ignore player limit for returning players: __1__.;一度参加したことのあるプレーヤーは定員を無視して参加できる: __1__。
+Matching configs: __1__.;一致する設定: __1__。
+Max. players;最大プレイヤー数
+<number> - Sets the maximum upload speed in kilobytes per second. 0 means no limit.;<number> - 最大アップロード速度をキロバイト毎秒で設定します。0 は無制限を意味します。
+Max. upload slots;最大アップロードスロット
+Only admins can pause: __1__.;管理者のみポーズ可能: __1__。
+Password;パスワード
+<true/false> - Sets if a user's identity has to be confirmed to join the server.;<true/false> - サーバーに参加する際にユーザー名を認証する必要があるかどうかを設定します。
+LAN visibility: __1__.;LAN 公開: __1__。
+Steam visibility: __1__.;Steam公開: __1__。
+Public visibility: __1__.;一般公開: __1__。
+Server name: __1__;サーバー名: __1__
+Server name changed to: __1__;サーバー名は__1__に変更されました。
+The server has no description.;サーバーの説明はありません。
+Server description: __1__;サーバーの説明: __1__
+The server description is already empty.;サーバーの説明は既に空欄です。
+Server description cleared.;サーバーの説明がクリアされました。
+Server description set to: __1__;サーバーの説明が__1__に設定されました。
+The server has no tags.;サーバーのタグはありません。
+Server tags: __1__;サーバータグ: __1__
+The server already has no tags.;サーバーのタグは既にありません。
+Server tags cleared.;サーバーのタグがクリアされました。
+Server tags set to: __1__;サーバーのタグが__1__に設定されました。
+__1__ kilobytes per second.;__1__ キロバイト/秒。
+Unlimited.;無制限
+Maximum upload rate changed to __1__ kilobytes per second.;最大アップロード速度が __1__ kB/sに変更されました。
+Upload limit removed.;最大アップロード速度制限が削除されました。
+__1__ slots.;__1__ スロット
+Number of upload slots changed to __1__.;アップロードスロット数を__1__に変更しました。
+Upload slot limit removed.;最大アップロードスロット制限が削除されました。
+Public visibility set to: __1__.;一般公開は以下のように設定されます: __1__。
+Steam visibility set to: __1__.;Steam公開は以下のように設定されます: __1__。
+LAN visibility set to: __1__.;LAN 公開は以下のように設定されます: __1__。
+Value is not valid.;無効な値です。
+Server password removed.;サーバーパスワードが削除されました。
+Server password changed.;サーバーパスワードが変更されました。
+Player limit removed.;プレイヤー上限が削除されました。
+Maximum number of players changed to __1__.;最大プレイヤー数が __1__ に変更されました。
+Allow Lua commands set to __1__.;__1__ が許可Luaコマンドに設定されました。
+Allow debug settings set to __1__.;デバッグの設定を__1__に設定するのを許可する
+This GUI can only be used in a multiplayer game.;このGUIはマルチプレイでのみ使用できます。
+Expected value to set as the third parameter.;3 番目のパラメータに設定値を指定する必要があります。
+Unknown config: __1__;不明な設定: __1__
+Has password;パスワードが必要
+The server currently doesn't have a password.;サーバーには現在パスワードがありません。
+Autosave is disabled.;オートセーブは無効です。
+Autosave every __1__ __plural_for_parameter_1_{1=minute|rest=minutes}__.;オートセーブの間隔を__1__分に設定しました。
+Autosave is now disabled.;オートセーブが無効になりました。
+Autosave interval changed to __1__ __plural_for_parameter_1_{1=minute|rest=minutes}__.;オートセーブの間隔を__1__分に設定しました。
+Autosave only on server set to: __1__.;オートセーブをサーバでのみ行う設定は __1__に設定されました。
+AFK auto-kick is disabled.;退席中の自動キックが無効になっています。
+Kick if AFK for more than __1__ __plural_for_parameter_1_{1=minute|rest=minutes}__.;退席中の自動キックが__1____plural_for_parameter_1_{1=分|rest=分}__に変更されました。
+AFK auto kick is now disabled.;退席中の自動キックが無効になりました。
+AFK auto-kick changed to __1__ __plural_for_parameter_1_{1=minute|rest=minutes}__.;退席中の自動キックが__1____plural_for_parameter_1_{1=分|rest=分}__に変更されました。
+Verify user identity;ユーザーを照合
+Verify user identity set to: __1__.;ユーザーIDの照合は以下のように変更されました: __1__。
+Only admins can pause set to: __1__.;管理者のみポーズ可能は以下のように変更されました: __1__。
+Ignore player limit for returning players set to: __1__.;復帰プレイヤーは最大プレイヤー数の設定を無視する、は以下のように変更されました: __1__。
+Expected "get" or "set" as the first argument.;1番目の引数に"get"または"set"が必要です。
+Matching options: __1__.;一致するオプション: __1__
+Matching actions: __1__.;一致するアクション: __1__
+Matching groups:;一致するグループ:
+Add player;<group> <player> - プレイヤーを指定したグループに追加します。
+<name> - Creates a new group with the given name, or the default name is used if no name is given.;<name> - 指定された名前を持つ新しいグループを作成します。名前を指定しない場合、既定の名前が使用されます。
+<group> - Deletes the given group.;<group> - 指定したグループを削除します。
+<group> <action> <true/false> - Enables or disables the given action for the given group.;<group> <action> <true/false> - グループに対して指定されたアクションを有効/無効にします。
+<player> - Gets the group the given player is part of (if any).;<player> - プレイヤーが所属するグループを取得します。
+- Lists all groups.;- すべてのグループを一覧表示します。
+<group> <player> - Removes the player from the given group.;<group> <player> - プレイヤーを指定したグループから削除します。
+<group> <name> - Renames the given group to the new name.;<group> <name> - グループの名前を変更します。
+Reset;リセット
+__1__ isn't in any group.;__1__ はいずれのグループにも所属していません。
+__1__ is in the __2__ group.;__1__ はグループ __2__ に所属しています。
+Created the __1__ group.;__1__ グループを作成しました。
+Unable to create group.;グループを作成できません。
+You cannot delete the default group.;デフォルトのパー権限グループは削除できません。
+Deleted permission group: __1__.;権限グループ __1__ を削除しました。
+__1__ is already in the group __2__.;__1__ は既にグループ __2__ に所属しています。
+__1__ added to the group __2__.;__1__ をグループ __2__ へ追加しました。
+__1__ removed from the group __2__.;__1__ をグループ __2__ から削除しました。
+__1__ isn't in the group __2__.;__1__ はグループ __2__ に所属していません。
+Renamed permission group: __1__ to __2__.;権限グループ __1__ の名称を __2__ に変更しました。
+Unknown input action: __1__.;不明な入力アクション: __1__
+__1__ set to __2__.;__1__ を __2__ に設定します。
+Unknown value: __1__ - Expected true or false.;不明な値: __1__ - true または false を指定してください。
+You do not have permission to create permission groups.;権限グループを作成する権限がありません。
+You do not have permission to delete permission groups.;権限グループを削除する権限がありません。
+You do not have permission to edit permission groups.;権限グループを編集する権限がありません。
+Unknown group: __1__.;不明なグループ: __1__
+Unknown player: __1__.;不明なプレイヤー: __1__
+Permissions reset to default.;全ての権限は既定値に変更されました
+Players (__1__):;プレイヤー (__1__):
+Online players (__1__):;オンラインのプレイヤー (__1__):
+player;プレイヤー
+__1__ has been muted by __2__.;__1__ は __2__ にミュートされました。
+__1__ is already muted.;__1__ は既にミュートされています。
+__1__ has been unmuted by __2__.;__1__ は __2__ にミュート解除されました。
+__1__ isn't muted.;__1__ はミュートされていません。
+__1__ ignored.;__1__ は無視されます。
+__1__ unignored.;__1__ は無視解除されます。
+Alert type __1__ has been muted.;アラート __1__ をミュートしました。
+Alert type __1__ is already muted.;アラート __1__ はすでにミュートされています。
+Alert type __1__ has been unmuted.;アラート __1__ のミュートが解除されました。
+Alert type __1__ isn't muted.;アラート __1__ はミュートされていません。
+Alert type __1__ has been disabled.;アラート __1__ は無効にされました。
+Alert type __1__ is already disabled.;アラート __1__ はすでに無効になっています。
+Alert type __1__ has been enabled.;アラート __1__ は有効になりました。
+Alert type __1__ isn't disabled.;アラート __1__ は無効ではありません。
+Programmable Speaker global sounds muted on local client.;プログラマブルスピーカーのグローバルサウンドをこのクライアント上でミュートしました。
+Programmable Speaker global sounds muted for everyone on the server.;プログラマブルスピーカーのグローバルサウンドをサーバーに接続しているすべてのクライアント上でミュートしました。
+Programmable Speaker global sounds unmuted on local client.;プログラマブルスピーカーのグローバルサウンドをこのクライアント上でミュート解除しました。
+Programmable Speaker global sounds unmuted for everyone on the server.;プログラマブルスピーカーのグローバルサウンドをサーバーに接続しているすべてのクライアント上でミュート解除しました。
+Cannot run command with these parameters: you are not admin.;これらのパラメータでコマンドを実行することはできません - あなたは管理者ではありません。
+Whitelisted players: __1__;ホワイトリストに登録済みのプレーヤー: __1__
+Banned players: __1__;BANされたプレーヤー: __1__
+The whitelist is empty.;ホワイトリストは空です。
+The banlist is empty.;BANリストは空です。
+The whitelist is already empty.;ホワイトリストはすでに空です。
+The banlist is already empty.;BANリストはすでに空です。
+The whitelist has been cleared and disabled.;ホワイトリストは初期化され無効化されています。
+The banlist has been cleared.;BANリストは初期化されました。
+Only admins can use whitelist clear.;管理者のみがホワイトリストの初期化を実行できます。
+Only admins can use banlist clear.;管理者のみがBANリストの初期化を実行できます。
+Only admins can use whitelist add.;管理者のみがホワイトリストの追加を実行できます。
+Only admins can use banlist add.;管理者のみがBANリストの追加を実行できます。
+Only admins can use whitelist remove.;管理者のみがホワイトリストの削除を実行できます。
+Only admins can use banlist remove.;管理者のみがBANリストの削除を実行できます。
+__1__ is whitelisted.;__1__ はホワイトリストに追加されています。
+__1__ is banned.;__1__ はBANされています。
+__1__ is not whitelisted.;__1__ はホワイトリストに追加されていません。
+__1__ is not banned.;__1__ はBANされていません。
+__1__ is already whitelisted.;__1__ はすでにホワイトリストに追加されています。
+__1__ is already banned.;__1__ はすでにBANされています。
+__1__ wasn't in the whitelist.;__1__ はホワイトリストに追加されていませんでした。
+__1__ wasn't banned.;__1__ はBANされていませんでした。
+Added __1__ to the whitelist.;ホワイトリストに__1__を追加しました。
+Added __1__ to the banlist.;BANリストに__1__を追加しました。
+Removed __1__ from the whitelist.;__1__をホワイトリストから除外しました。
+Unbanned __1__.;__1__のBANを解除しました。
+All permission groups: __1__.;すべてのパーミッショングループ: __1__
+All actions: __1__.;すべてのアクション: __1__
+Cannot delete the blueprint library storage for a connected player.;接続しているプレイヤーの建設計画ライブラリストレージは削除できません。
+Deleted blueprint library for __1__.;__1__の建設計画ライブラリが削除されました。
+__1__ did not have any stored blueprints.;__1__ は共有された建設計画を持っていません。
+No blueprint library storages to delete.;消去できる建設計画ライブラリはありません
+Deleted blueprint library storage for players:;建設計画ライブラリストレージが削除されたプレーヤー：
+Action logging enabled.;アクションログを有効にする
+Action logging disabled.;アクションログを無効にする
+Select icon;列車の概要
+Cancel;キャンセル
+__1__ out of __2__ players are online;__2__人中__1__人のプレイヤーがオンラインです。
+Manage permissions;権限を管理
+Show online only;オンラインのみ表示
+Last online;最終オンライン
+Muted;ミュート
+Banned;BAN
+Whitelisted;ホワイトリスト
+Operations;担当
+Manage;管理
+Permission group;権限グループ
+Un-whitelist;ホワイトリスト解除
+Delete;削除
+Manage __1__;__1__を管理
+Only connected players can be kicked.;接続中のプレイヤーのみキックできます。
+Whitelist must be enabled on the server before players can be whitelisted.;プレイヤーを登録する前に、サーバーのホワイトリストを有効にしなければなりません。
+You cannot delete yourself.;自分自身を削除することはできません。
+You cannot kick yourself.;自分自身はキックできません！
+You cannot ban yourself.;自分自身をBANすることはできません。
+Removes and deletes the player from the server.;プレイヤーをサーバーから追い出してデータを削除します。
+now;今
+Never;しない
+Enable all;全て有効
+Disable all mods;全て無効
+Group permissions;グループパーミッション
+You're about to remove your ability to edit permissions. Do you really want to do this?;自身のパーミッションを編集する権限を削除しようとしています。実行してもよろしいですか？
+Delete selected group;選択グループを削除
+Edit selected group;選択グループを編集
+Add group;グループを追加
+Clone group;グループを複製
+Add player to group;プレイヤーをグループへ追加
+Remove player from group;プレイヤーをグループから削除
+Players in group;グループ中のプレイヤー
+Show players in other groups;他グループのプレイヤーを表示
+Import permissions;権限のインポート
+Export;権限のエクスポート
+Import;権限のインポート
+Permission string;権限コード
+Import failed: __1__;インポートに失敗しました: __1__
+Maximum number of groups reached.;グループ数の上限に達しました。
+Multiple default groups found.;デフォルトグループが複数存在します。
+No default group found.;デフォルトグループがありません。
+Begin mining;採掘技術
+Toggle driving;乗車/降車
+Open gui;GUIを開く
+Open character gui;キャラクター情報を開く
+Open current vehicle gui;車両情報を開く
+Connect rolling stock;列車を連結する
+Disconnect rolling stock;列車を切り離す
+Clear cursor;持ち物を戻す（カーソルの持ち物をクリア）
+Reset assembling machine;組立機をリセット
+Open technology gui;テクノロジーツリーを開く
+Launch rocket;ロケット発射
+Open production gui;生産統計を開く
+Cancel new blueprint;建設計画を中止する
+Copy entity settings;エンティティ設定のコピー
+Paste entity settings;エンティティ設定の貼り付け
+Destroy opened item;開いたアイテムを破壊
+Copy opened item;開いたアイテムをコピー
+Toggle show entity info;エンティティ情報の表示を切り替える
+Switch to rename stop gui;駅名変更に切替え
+Open bonus gui;ボーナス一覧を開く
+Open trains gui;列車一覧を開く
+Open achievements gui;実績一覧を開く
+Cycle blueprint book forwards;建設計画書を前へ送る
+Cycle blueprint book backwards;建設計画書を後ろへ戻す
+Toggle enable vehicle logistics while moving;移動中の車両物流の切り替え
+Toggle deconstruction item entity filter mode;解体プランナーのエンティティフィルターモード切り替え
+Toggle deconstruction item tile filter mode;解体プランナーのタイルフィルターモード切り替え
+Open logistic gui;物流一覧を開く
+Select next valid gun;次の銃を選択
+Toggle map editor;マップ エディターの切り替え
+Delete blueprint library;建設計画書の削除
+Activate copy;コピーを有効にする
+Activate cut;カットを有効にする
+Activate paste;ペーストを有効にする
+Undo some actions such as manual entity building/removal, placing of blueprints, and usage of the deconstruction planner.;アンドゥ
+Toggle personal roboport;個人用ロボットステーションの切り替え
+Toggle equipment movement bonus;装備移動ボーナスの切り替え
+Toggle personal logistic requests;個人物流要求の切り替え
+Toggle entity logistic requests;エンティティ物流要求の切り替え
+Stop building by moving;移動しながらの建設を停止
+Flush opened entity fluid;エンティティの液体を消去
+Open tips and tricks gui;ヒント・トリックを開く
+Open blueprint library gui;建設計画書一覧を開く
+Drop item;アイテムをその場に捨てる
+__1__ to build.;__1__で設置。
+Start walking;歩行を開始
+Begin mining terrain;採掘地形を開始
+Change riding state;乗車/降車
+Open item;アイテムを開く
+Open parent of opened item;開いているアイテムの親を開く
+Reset item;アイテムをリセット
+Destroy item;アイテムを破壊
+Open mod item;modアイテムを開く
+Open equipment;装備画面を開く
+Cursor transfer;アイテムを持つ
+Cursor split;アイテム数の半分を選択
+Stack transfer;アイテムを1スタック移動
+Inventory transfer;インベントリアイテムの移動許可
+Usable only in the recipe GUI. Crafts 1 of a given recipe.;製作
+Wire dragging;ワイヤー接続
+Change shooting state;攻撃
+Setup assembling machine;組立機のレシピを設定
+Smart pipette;ピペット機能
+Stack split;0.5スタック分のアイテムを移動
+Inventory split;全アイテムの半数を移動
+Cancel craft;クラフトをキャンセル
+Set filter;フィルターの設定
+Set circuit condition;回路条件の設定
+Set signal;シグナル設定
+Start research;研究開始
+Set logistic filter item;物流フィルターを設定
+Set logistic filter signal;物流フィルター信号を設定
+Set circuit mode of operation;カイロモード設定の許可
+Gui click;GUIクリック
+Gui confirmed;Gui 確認済み
+Write to console;コンソール入力
+Market offer;マーケットオファー
+Add train station;駅を追加
+Change train stop station;列車の停車駅を変更
+Change active item group for crafting;作成グループアイテム変更権限
+Change active item group for filters;フィルターグループアイテム変更権限
+Change active character tab;アクティブキャラクタータブの変更権限
+Gui text changed;GUIのテキスト変更
+Gui checked state changed;GUIのチェク状態変更
+Gui selection state changed;GUIの選択状態変更
+Gui selected tab changed;GUIのタブ変更
+Gui value changed;GUIの値変更
+Gui switch state changed;GUIの状態変更
+Gui location changed;GUIの位置変更
+Place equipment;装備を配置
+Take equipment;装備権限
+Use item;アイテムを使う
+Send spidertron;Spidertronへ送信
+Use artillery remote;長距離砲の遠隔操作
+Set inventory bar;インベントリバーを設定
+Start repair;リペア開始
+Deconstruct;解体
+Upgrade;アップグレード
+Copy;コピー
+Alternative copy;代替コピー
+Select blueprint entities;建設計画のエンティティを選択
+Alt select blueprint entities;代替建設計画のエンティティを選択
+Setup blueprint;新しい建設計画を設定
+Setup single blueprint record;計画書に関する権限
+Copy opened blueprint;開いている建設計画をコピー
+Reassign blueprint;建設計画の再割り当て
+Open blueprint record;建設計画の記録を開く
+Grab blueprint record;建設計画の記録を取得
+Drop blueprint record;建設計画の記録を取得
+Delete blueprint record;建設計画の記録を削除
+Upgrade opened blueprint by record;記録を使って建設計画をアップグレードする
+Upgrade opened blueprint by item;アイテムを使って建設計画をアップグレードする
+Spawn item;アイテムを作る
+Edit blueprint tool preview;建設計画を編集
+Remove cables;ケーブルを削除
+Export blueprint;建設計画をエクスポート
+Import blueprint;建設計画をインポート
+Import blueprints filtered;フィルタリングされた建設計画をインポート
+Cancel deconstruct;解体をキャンセル
+Cancel upgrade;アップグレードをキャンセルする
+Change arithmetic combinator parameters;算術回路の設定変更
+Change decider combinator parameters;条件回路の設定変更
+Change programmable speaker parameters;プログラマブルスピーカーの設定変更
+Change programmable speaker alert parameters;プログラマブルスピーカーの警告設定変更
+Change programmable speaker circuit parameters;プログラマブルスピーカーの回路設定変更
+Set vehicle automatic targeting parameters;車両の自動目標追尾を設定する
+Build terrain;地形を構築
+Change train wait condition;列車待機条件を変更
+Change train wait condition data;列車待機条件データを変更
+Custom input;カスタム入力
+Change item label;アイテムのラベルを変更
+Change item description;アイテムの説明を変更
+Change entity label;エンティティのラベルの変更
+Build rail;レールを敷設する
+Cancel research;研究をキャンセル
+Select area;エリア選択
+Alt select area;altエリア選択
+Reverse select area;選択範囲を反転
+Alt reverse select area;選択範囲を反転
+Set controller logistic trash filter item;自動廃棄フィルターの設定
+Set entity logistic trash filter item;エンティティの自動廃棄フィルターの設定
+Set infinity container filter item;無限コンテナのフィルタ設定権限
+Set infinity pipe filter;無限パイプフィルターを設定
+Mod settings changed;Mod の設定が変更されました
+Set entity energy property;エネルギー設定権限
+Edit custom tag;カスタムタグを編集
+Edit permission group;権限グループの編集
+Import blueprint string;計画書のインポート権限
+Import permissions string;権限のインポート
+Gui elem changed;GUI 要素変更
+Drag train schedule;列車ダイヤ変更権限
+Drag train wait condition;列車待機設定権限
+Select item;アイテムを選択
+Select entity slot;エンティティスロットを選択
+Select tile slot;タイルスロットを選択
+Select mapper slot;マッパースロットを選択
+Quick bar set slot;クイックバーのスロット設定
+Quick bar pick slot;クイックバーのスロット取得
+Quick bar set selected page;クイックバーで選択したページを設定
+Map editor action;マップエディタの操作
+Change multiplayer config;マルチプレイヤー設定を変更する
+Admin action;管理者アクション
+Lua shortcut;Lua ショートカット
+Translate string;翻訳権限
+Flush opened entity specific fluid;特定の液体消去権限
+Change picking state;集荷状態の変更
+Set autosort inventory;インベントリの自動ソート設定権限
+Set flat controller gui;フラットコントローラーGUIを設定
+Set recipe notifications;レシピ通知を設定
+Set auto launch rocket;自動発射ロケットを設定
+Switch constant combinator state;定数回路変更権限
+Switch power switch state;電源スイッチの切り替え
+Switch inserter filter mode state;フィルターインサータの設定変更
+Switch connect to logistic network;物流ネットワークへの接続を切り替える
+Set behavior mode;動作モード設定権限
+Fast entity transfer;直接アイテム移動
+Rotate entity;エンティティを回転
+Fast entity split;直接アイテム半数移動権限
+Set train stopped;停車駅の設定
+Set research finished stops game;研究終了時のゲーム一時停止の設定
+Set inserter max stack size;インサータの最大スタックサイズを設定
+Open train gui;列車一覧を開く
+Set entity color;エンティティの色を設定
+Set deconstruction item trees and rocks only;木と岩のみの解体プランナー設定権限
+Set deconstruction item tile selection mode;解体プランナーのタイル選択モード権限
+Delete custom tag;カスタムタグを削除
+Delete permission group;パーミッショングループの削除
+Add permission group;パーミッショングループの追加
+Set infinity container remove unfiltered items;貨物車のフィルタ削除権限
+Set car weapons control;車両の武器を設定
+Set request from buffers;要求チェストの設定権限
+Change active quick bar;クイックバーの切替
+Set splitter priority;分配器の優先設定
+Set heat interface temperature;ヒートインターフェース温度を設定
+Set heat interface mode;ヒートインターフェースモードの設定
+Open train station gui;駅画面を開く
+Remove train station;駅を削除
+Go to train station;駅へ移動
+Set player color;プレイヤーの色を設定
+Set trains limit;列車の上限を設定
+Set linked container link ID;物流チェストのリンク設定権限
+Move;移動
+Look;見る
+Move up;上に移動する
+Move right;右に移動する
+Move down;下に移動する
+Move left;左に移動する
+Shoots at the enemy nearest to the cursor, or for some weapons shoots at the location of the cursor.;カーソルに最も近い敵を撃ちます。武器によってはカーソルの場所を撃ちます。
+Shoots at whatever you have selected, or for some weapons shoots at the location of the cursor.;選択したものを何であれ撃ちます。武器によってはカーソルの場所を撃ちます。
+Open character screen;インベントリを開く
+Toggle technology screen;テクノロジースクリーンの表示切替
+Rotates the item held in the cursor or the selected entity clockwise.;カーソルをあわせているか選択している施設を時計回りに回転します。
+Rotates the item held in the cursor or the selected entity counterclockwise.;カーソルをあわせているか選択している施設を反時計回りに回転します。
+Flip blueprint horizontal;建設計画を水平に反転
+Flip blueprint vertical;建設計画を垂直に反転
+Pick up items on the ground;アイテムを拾う
+Confirm window;確認画面
+Toggle free cursor;フリーカーソルを切り替える
+When holding a blueprint book in the cursor, cycles the active blueprint to the next available blueprint.;建設計画の本をホールドしているとき、アクティブな建設計画を次の建設計画に切り替えます。
+When holding a blueprint book in the cursor, cycles the active blueprint to the previous available blueprint.;建設計画の本をホールドしているとき、アクティブな建設計画を前の建設計画に切り替えます。
+Cycles the clipboard history while holding the paste tool.;貼り付けツールを保持しているとき、クリップボード履歴の逆送り。
+Zoom in;ズームイン
+Zoom out;ズームアウト
+Usable only on the map. Zoom with ability to zoom in to world view from map view.;マップでのみ使えます。マップビューから通常ビューへズームインします。
+Usable only on the map. Zoom with ability to zoom out to map view from world view.;マップでのみ使用できます。ワールドビューからマップビューにズームアウトできるズームです。
+Toggle menu;ゲームメニューを表示
+Cancel and return to the previous menu. Usable only in main menu.;キャンセルして前のメニューに戻ります。メインメニューでのみ使用できます。
+Production statistics (__CONTROL__production-statistics__);生産統計 (__CONTROL__production-statistics__)
+Toggle kill statistics;キル数統計の表示切替
+Toggle world map;マップ切替
+Enters or exits the vehicle you're standing next to or driving.;乗り物から降車または、隣接する乗り物に乗車します。
+Returns the item in the cursor stack to the player's inventory. Also cancels wire placement and rail planning.;持っているアイテムをプレイヤーのインベントリに戻します。ケーブル配線やレールプランナーもキャンセルされます。
+Picks items from your inventory used to build the currently selected entity and places them in your cursor. For resources it will select the fastest available mining drill.;選択した施設を設置するために使われるアイテムをインベントリから手に取ります。資源を選択した場合は掘削機のうち高速な物を手に取ります。
+Mine;採掘
+Select the entities for blueprinting, upgrading, or deconstruction.;建設計画やアップグレード、解体指示する対象を選択します。
+Select to cancel upgrading or deconstruction.;アップグレード、解体指示を取り消す対象を選択します。
+Activates Downgrade mode with the upgrade planner.;アップグレードプランナーでダウングレードモードを有効にします。
+Alternative reverse select;選択範囲を逆転
+Copies settings from the selected entity. Note that for pasting to work, the source entity must still exist.;選択したエンティティから設定をコピーします。ペーストする際にコピー元のエンティティが存在していなければならない点に注意してください。
+Pastes settings from the previously copied entity.;コピーした設定を他のエンティティに貼り付けます。
+Select an area of entities to be copied and marked for deconstruction.;コピーした上で解体指示する対象の範囲を選択してください。
+Pastes the last copied entities.;最後にコピーしたエンティティを貼り付けます。
+Removes wires from the selected electric pole, starting with electric wires and then circuit network wires.;選択した電柱からケーブルを除去します(電線、回路ネットワークケーブルの順)。
+Build ghost;仮設置（設置予想を表示）
+Usable only for rail building. This is the same as ghost build mode, but trees, rocks, and cliffs are avoided.;レール設置時のみ使えます。これは仮設置モードと同様ですが、木と岩と崖を避けます。
+Open object's GUI;オブジェクトメニューを開く
+Drop one item of what you are holding on the ground, on a belt, or into a machine.;持っていアイテムの1個を地面やベルトの上や機械の中へ置きます。
+Pick up/drop item stack;アイテムのスタックを持つ／置く
+Moves half of the selected inventory slot into the cursor if empty. Places a single item from the cursor stack into the selected inventory slot when holding an item.;カーソルが空の場合は選択したスロットのアイテムの半分をカーソルに移動します。カーソルにアイテムがある場合はカーソルのアイテムを選択したスロットに1個配置しますが、選択したスロットにすでにアイテムがある場合は配置できません。
+Transfers the selected stack to the other inventory.;選択したスタックを他のインベントリへ転送します。
+Transfers half of the selected stack to the other inventory.;選択したスタックの半分を他のインベントリへ転送します。
+Transfers all of the selected stack type to the other inventory. If an empty slot is selected, all items are transferred.;選択したスタックと同じアイテムをすべて他のインベントリへ移動します。空のスロットを選択した場合はすべてのアイテムを移動します。
+Transfers the held stack into the selected entity, or takes anything the entity has and transfers it to your inventory if the cursor is empty.;保持されているスタックを選択された施設に転送します。カーソルが空の場合は、施設が持つものを取り出してあなたのインベントリに転送します。
+Transfers half of all of the stacks (rounded up) of the selected stack type to the other inventory. If an empty slot is selected, half of all stacks are transferred.;選択したスタックと同じアイテムの半数（端数切り上げ）を他のインベントリへ移動します。空のスロットをクリックした場合はすべてのアイテムの半数を移動します。
+Transfers half of the held stack into the selected entity, or takes half of anything the entity has and transfers it to your inventory if the cursor is empty.;保持されているスタックの半分を選択された施設に転送します。カーソルが空の場合は、施設が持つものを半分取り出してあなたのインベントリに転送します。
+Usable only in the recipe GUI. Crafts 5 of a given recipe.;レシピGUIで使います。指定のレシピを5つ製作します。
+Usable only in the recipe GUI. Crafts as many as possible of a given recipe.;レシピGUIで使います。指定のレシピを可能な限り多く製作します。
+Usable only in the crafting queue.;製作予約で使います。
+Show quick panel;クイックパネルの表示
+Next page;次のページ
+Previous page;前のページ
+Next tab;次のタブ
+Previous tab;前のタブ
+Shortcut 1;ショートカット1
+Shortcut 2;ショートカット2
+Shortcut 3;ショートカット3
+Shortcut 4;ショートカット4
+Shortcut 5;ショートカット5
+Shortcut 6;ショートカット6
+Shortcut 7;ショートカット7
+Shortcut 8;ショートカット8
+Shortcut 9;ショートカット9
+Shortcut 10;ショートカット10
+Secondary shortcut 1;副ショートカット1
+Secondary shortcut 2;副ショートカット2
+Secondary shortcut 3;副ショートカット3
+Secondary shortcut 4;副ショートカット4
+Secondary shortcut 5;副ショートカット5
+Secondary shortcut 6;副ショートカット6
+Secondary shortcut 7;副ショートカット7
+Secondary shortcut 8;副ショートカット8
+Secondary shortcut 9;副ショートカット9
+Secondary shortcut 10;副ショートカット10
+Select quickbar 1;クイックバー 1 を選択
+Select quickbar 2;クイックバー 2 を選択
+Select quickbar 3;クイックバー 3 を選択
+Select quickbar 4;クイックバー 4 を選択
+Select quickbar 5;クイックバー 5 を選択
+Select quickbar 6;クイックバー 6 を選択
+Select quickbar 7;クイックバー 7 を選択
+Select quickbar 8;クイックバー 8 を選択
+Select quickbar 9;クイックバー 9 を選択
+Select quickbar 10;クイックバー 10 を選択
+Rotate active quickbars;アクティブクイックバーを切り替え
+Selects the next quickbar for the top quickbar.;最上段のクイックバーに次のクイックバーを選択します。
+Selects the previous quickbar for the top quickbar.;最上段のクイックバーに前のクイックバーを選択します。
+Creates/removes a filter for the selected inventory slot. Only the selected item type can be placed in the filtered slot.;選択したインベントリスロットにフィルターを作成し、選択したアイテムのみ入れられるようにします。またフィルターが設定されていれば解除します。
+Toggles showing additional information about built entities such as recipes in assembling machines and container contents.;組立機のレシピやチェストの中身といった、設置された施設に関する追加情報を表示するかどうかを切り替えます。
+Cycles to the next equipped weapon.;次に装備された武器に切り替えます。
+Shows the tooltip when the tooltip delay is set to a large value or "Never".;ツールチップ遅延が大きいもしくは表示しない設定のときツールチップを表示。
+Confirm message;メッセージを確認
+Connects the selected train or the train you're driving to any adjacent trains.;選択した列車または運転している列車を隣接する列車に接続します
+Disconnects the selected rolling stock or the rolling stock you are in from the rest of the train.;選択した車両または乗っている車両以降を列車から切り離します。
+Clone item;アイテムを複製
+Delete item;アイテムを削除する
+Next variation;次の種類
+Previous variation;前の種類
+Toggle entity paused;ポーズを切り替え
+Tick once;1Tick進める
+Pause game;ポーズ
+Increase game speed;ゲームの速度を上げる
+Decrease game speed;ゲームの速度を下げる
+Reset game speed to 1;ゲームスピードを1にリセット
+Set clone brush source;クローンブラシのソースを設定
+Set clone brush destination;クローンブラシのクローン先を設定
+Switches to the surface number pressed in combination with this hotkey: __CONTROL__editor-switch-to-surface__ + 3 -> switches to surface 3.;このホットキーと同時に押した数字にサーフェスを切り替えます： __CONTROL__editor-switch-to-surface__ + 3→サーフェス3に切り替え
+Remove scripting object;スクリプトオブジェクトを削除
+Open item's GUI;アイテムのGUIを開く
++ Add station;+ 駅を追加
+Usable only in the locomotive GUI and map view. Hold this modifier while selecting in the locomotive GUI minimap or main map to quickly go to that location by adding a temporary stop to the schedule.;車両画面とマップ画面でのみ使用できます。車両画面のミニマップやマップ画面上で選択したまま押すと、その場所を臨時駅として時刻表に追加し、即座に移動します。
+Toggle chat (and Lua console);チャット(およびLuaコンソール)の表示切替
+Drag map;マップをドラッグ
+Quickly create a map ping at the selected location and link to it in the chat.;選択した場所のピンをマップに立て、その場所へのリンクをチャットに貼ります。
+Usable only when the chat is open. Places a chat link to the selected item, recipe, map location, stop, or train.;チャットを開いている間のみ使えます。選択したアイテムやレシピ、マップの場所、駅や列車へリンクをチャットに追加します。
+Increases the size of the placement area for tiles.;タイルの配置範囲を増加します。
+Decreases the size of the placement area for tiles.;タイルの配置範囲を減少します。
+Not set;未設定
+Unknown;不明
+Focus search;検索にフォーカス
+Usable only on the technology screen. Selects the technology you previously selected.;テクノロジースクリーンでのみ使えます。前に選択した研究を選択します。
+Usable only in the mods GUI. Selects the mod you previously selected.;MOD画面でのみ使えます。前に選択したMODを選択します。
+Logistic networks;物流ネットワーク
+Toggle blueprint library;建設計画のライブラリの表示切替
+Toggle train overview;列車の概要表示の切り替え
+Toggle atlas GUI;アトラスGUIを表示
+Toggle debug settings GUI;デバッグ設定を表示
+Toggle basic debug;basicデバッグを表示
+Reset zoom level;ズーム倍率のリセット
+Set zoom level to 2x;ズーム倍率を2倍にする
+Open character crafting;キャラクター製作欄を開く
+Open character logistics;キャラクター物流欄を開く
+Open character info;キャラクター情報欄を開く
+Toggle GUI debug;Guiデバッグを表示
+Toggle GUI style view;GUIスタイルビューを切り替え
+Toggle GUI shadows;GUIの影を切り替え
+Toggle GUI glows;GUIのグローを切り替え
+Open prototypes GUI;プロトタイプGUIを開く
+Open prototype explorer GUI;プロトタイプエクスプローラーGUIを開く
+Increase UI scale;UIサイズ拡大
+Decrease UI scale;UIサイズ縮小
+Reset UI scale to automatic;UIサイズを自動にリセット
+Next player in replay;リプレイ中の次のプレイヤー
+Used with spidertron remote to order the connected spidertron to follow the given target.;スパイダートロンリモコンを使用する事で接続されたスパイダートロンを指定した目的地に移動させることができます。
+Left-click;左クリック
+Right-click;右クリック
+Middle-click;ミドルクリック
+Mouse button __1__;マウスボタン __1__
+Left-clicking;左クリック
+Right-clicking;右クリック
+Middle-clicking;ミドルクリック
+Press __1__;__1__ を押す
+Pressing __1__;__1__ を押しています
+Scroll __1__;マウスのスクロール __1__
+Scrolling __1__;マウスのスクロール __1__
+Use __1__;__1__ を使用
+Using __1__;__1__ を使用中
+Mouse wheel up;マウスホイールアップ
+Mouse wheel down;マウスホイールダウン
+Mouse wheel left;マウスホイール左
+Mouse wheel right;マウスホイール右
+Enter;Enter
+Escape;Escape
+Backspace;Backspace
+Tab;Tab
+Spacebar;スペース
+Caps Lock;Caps Lock
+Print Screen;Print Screen
+Scroll Lock;Scroll Lock
+Insert;Insert
+Home;Home
+Page Up;Page Up
+End;End
+Page Down;Page Down
+Right;右
+Left;左
+Down;下
+Up;上
+Num Lock;Num Lock
+Numpad /;テンキー /
+Numpad *;テンキー *
+Numpad -;テンキー -
+Numpad +;テンキー +
+Numpad Enter;テンキー Enter
+Numpad 1;テンキー 1
+Numpad 2;テンキー 2
+Numpad 3;テンキー 3
+Numpad 4;テンキー 4
+Numpad 5;テンキー 5
+Numpad 6;テンキー 6
+Numpad 7;テンキー 7
+Numpad 8;テンキー 8
+Numpad 9;テンキー 9
+Numpad 0;テンキー 0
+Numpad .;テンキー .
+Numpad =;テンキー =
+Power;Power
+Menu;メニュー
+Volume Up;ボリュームアップ
+Volume Down;ボリュームダウン
+SysRq;SysRq
+Left Control;左Control
+Left Shift;左Shift
+Left Alt;左Alt
+Left Super;左Super
+Left Command;左Command
+Left Windows;左Windows
+Right Control;右Control
+Right Shift;右Shift
+Right Alt;右Alt
+Right Super;右Super
+Right Command;右Command
+Right Windows;右Windows
+Audio Next;オーディオ 次
+Audio Previous;オーディオ 前
+Audio Stop;オーディオ 停止
+Audio Play;オーディオ 再生
+Audio Mute;オーディオ ミュート
+Mail;メール
+Calculator;電卓
+AC Search;AC 検索
+AC Home;AC Home
+AC Back;AC 戻る
+AC Forward;AC 進む
+AC Stop;AC 停止
+AC Refresh;AC 更新
+AC Bookmarks;AC ブックマーク
+Brightness Down;輝度ダウン
+Brightness Up;輝度アップ
+Eject;イジェクト
+Sleep;スリープ
+Control;Control
+Shift;Shift
+Alt;Alt
+__CONTROL_LEFT_CLICK__;__CONTROL_LEFT_CLICK__
+__CONTROL_RIGHT_CLICK__;__CONTROL_RIGHT_CLICK__
+__CONTROL_KEY_SHIFT__;__CONTROL_KEY_SHIFT__
+__CONTROL_KEY_CTRL__;__CONTROL_KEY_CTRL__
+Usable only on the map. Places an icon and/or text on the map.;マップでのみ使えます。アイコンやテキストをマップに置きます。
+Consumed;消耗品
+Activated;有効
+Consumes;消費
+Stores;格納
+Generates;生成
+Electricity;電力
+equipment grid electricity;装備グリッド電力
+fuel;燃料
+Fluid;流体
+heat;熱
+Vehicle;車両
+Train;列車
+Personal weapons;個人用武器
+Vehicle weapons;車両武器
+Turret;タレット
+Equipment grid;装備グリッド
+Placed in equipment grid;装備グリッドに配置します
+Effect;効果
+Thrown;投擲物
+Armor;アーマー
+Debug;デバッグデバッグ
+Damage;ダメージ
+Heal;修復
+No ammo;弾薬なし
+Consumption speed;消費速度
+Shooting speed;連射速度
+Throwing speed;連射速度
+Activation speed;有効化速度
+Fluids;流体
+Speed: __1__;再生スピード: __1__
+Max speed;最高速度
+Weight;重量
+Area of effect size;有効範囲
+Cluster size;クラスターサイズ
+Destroys cliffs;崖を破壊します。
+Duration: __1__ms;継続時間: __1__ms
+Lifetime;稼働時間
+Creates;作成
+__1__ x __2__;__1__ x __2__
+Applies effect;適用される効果
+Robot lifetime;ロボットの生存時間
+Piercing Power;貫通力
+Crafting speed;製作速度
+Storage size;容量
+Storage;ストレージ
+Health;体力
+Max. health;最大耐久力
+Mining speed;採掘速度
+Mining area;採掘エリア
+Expected resources;埋蔵量
+Repair speed;修復速度
+Amount;数量
+Requires;必要なテクノロジー
+__1__ __2__ per mining operation;採掘1回あたり__2__を__1__
+__1__ per mining operation;採掘1回あたり__1__
+Power output;発電量
+__1__ (__2__);__1__ (__2__)
+__1__ (__2__ neighbour bonus);__1__(隣接ボーナス__2__)
+Available power;利用可能電力
+Mining time;採掘時間
+Max. consumption;最大消費量
+Min. consumption;最小消費量
+Max. output;最大出力
+Constant consumption;定格消費
+Consumption;消費量
+Output;出力
+Moving consumption;移動消費
+Robot recharge rate;ロボット充電量
+Internal buffer recharge rate;内部蓄電量
+Force;勢力
+Min. temperature;最低温度
+Max. temperature;最高温度
+Heat capacity;熱容量
+Ammo slots are full.;弾薬スロットがいっぱいです。
+Magazine size;マガジン容量
+Range;範囲
+Minimum range;最小範囲
+Automatic range;自動範囲
+Manual range;手動範囲
+Projectile range;飛翔体射程
+Fuel value;熱量
+Vehicle acceleration;車両加速力
+Vehicle top speed;車両最高速度
+Fuel pollution;燃料汚染
+Recipe pollution;レシピ汚染
+Durability;耐久度
+__1__/__2__;__1__/__2__
+Remaining;残り
+Signals;信号
+Number of available robots;利用可能ロボット数
+Logistic;物流ロボット
+Construction;建設ロボット
+Satisfaction;充足度
+On the way;運搬中
+Logistic storage;物流倉庫(保管)
+Input signals;入力信号
+Output signals;出力信号
+Incoming block;進行元ブロック
+Outgoing block;進行先ブロック
+No block;ブロックなし
+Segments;セグメント
+Filters;フィルター
+Deliver;搬入中
+Pick up;搬出予定
+Recipe;レシピ
+Made in;製作可能設備
+Ingredients;素材
+Crafting time;製作時間
+Products;製品
+Total raw;トータルコスト
+Too complex to calculate;計算するには複雑すぎます
+Wire reach;接続距離
+Supply area;供給範囲
+Construction area;建設範囲
+Energy;エネルギー
+Energy capacity;エネルギー容量
+Max input;最大入力
+Max output;最大出力
+Logistic system storage;ストレージチェスト内情報
+Energy consumption;エネルギー消費量
+Pollution;汚染
+Speed;速度
+Productivity;生産性
+limit;制限
+Number of effect receivers;レシーバー数
+Number of effect sources;モジュール数
+Efficiency;効率
+Distribution efficiency;分配効率
+Shield hitpoints;シールドのHP
+Energy per hitpoint;HPあたりのエネルギー
+Energy per shot;1発当たりのエネルギー
+Energy per use;使用あたりのエネルギー
+Recharge speed;充電速度
+__1__ __plural_for_parameter_1_{1=hitpoint|rest=hitpoints}__;__1__ HP
+Batteries;バッテリー
+Battery capacity;バッテリー容量
+Shields;シールド
+Shield capacity;シールド最大HP
+Solar panel power;ソーラーパネル出力
+Grid size;グリッドサイズ
+Inventory size bonus;追加のインベントリ容量
+Movement bonus;追加の移動速度
+Kills;キル数
+Train kills;轢殺
+Damage dealt;ダメージ量
+Armor slot is occupied.;アーマースロットは占有されています。
+Resistances;抵抗
+Total followers;合計追従数
+Followers;追従ロボット
+Sector scanning progress;スキャンの進行度
+Normal;ノーマル
+__1__ temperature;__1__ 温度
+Yield;産出量
+Pumping speed;流量
+Dimensions;寸法
+Next station;次の駅
+Train ID;列車ID
+Cargo contents;貨物の内容
+Fluid contents;流体内容
+Contents;内容
+Fuel;燃料
+Ammo;弾薬
+Walking speed;歩行速度
+Used to build __1__.;__1__を建設するために使用
+Robot limit;ロボット制限数
+Charging stations;充電ステーション
+Roboport;ロボットステーション
+Max. robots;最大ロボット数
+Charging spots;充電数
+Last user;最終ユーザー
+Players killed;死亡したプレイヤー
+Neighbor bonus;隣接ボーナス
+Products finished;生産したアイテム
+Max. length;最大の長さ
+Belt speed;搬送量
+Items;アイテム
+Accepted equipment;許可された装備
+Placed in;配置
+Storage volume;貯蔵量
+Can filter items.;移動させるアイテムを指定できます。
+Rotation speed;回転速度
+Hand stack size;スタック容量
+Acceleration;加速度
+Top speed;最高速度
+Spent result;使用後
+Movement speed;ロボット移動速度
+Vehicle speed;車両速度
+Acceleration power;加速力
+Rocket launch products;ロケット打ち上げ成果
+Rocket parts;ロケット部品
+Logistic connection distance;物流接続距離
+Price;価格
+Ammo consumption modifier;弾薬消費値
+Status;状態
+Cargo capacity;貨物容量
+(not researched, hidden);(未研究、非表示)
+(not researched);(未研究)
+(hidden);(非表示)
+Variation;バリエーション
+__1__ (__2__ total);__1__(合計__2__)
+Size;サイズ
+Type;タイプ
+Decorative;装飾
+Decal;デカール
+Contribution to nearby attacks at current evolution factor (__1__);現在の進化度 (__1__) での付近の攻撃への影響
+Consumes __1__ pollution;汚染度 __1__ 吸収
+Base productivity;基礎生産性
+Research speed;研究速度
+Shooting speed modifier;連射速度の調整
+Range modifier;射程の調整
+Logistic request;物流要求
+Infinity filter;無限フィルター
+Infinity mode;インフィニティモード
+Logistic item;物流アイテム
+__1__ of __2__;__1__ / __2__
+Probability;確率
+Chain shooting speed;連続連射速度
+Enter the vehicle using __CONTROL__toggle-driving__.;__CONTROL__toggle-driving__で乗車します。
+Train limit;列車の停止予定数制限
+None;無
+Working;作動中
+Networks connected;送電ネットワーク接続中
+Networks disconnected;送電ネットワーク切断中
+No power;動力なし
+Low temperature;熱不足
+Charging;充電中
+Discharging;放電中
+Fully charged;充電完了
+No fuel;燃料切れ
+Out of logistic network;物流ネットワークの範囲外
+No recipe;レシピ未設定
+No ingredients;素材不足
+No input fluid;流体入力なし
+No research in progress;研究未実行
+No minable resources;採掘可能な資源なし
+Low input fluid;流体入力不足
+Low power;エネルギー不足
+Not connected to rail;レールに未接続
+Cannot divide segments;レールの分割不可
+Disabled by control behavior;無効(作動条件による)
+Closed by circuit network;回路ネットワークにより閉鎖
+Opened by circuit network;回路ネットワークにより開放
+Disabled by script;無効(スクリプトによる)
+Disabled:;このテクノロジーは研究できません。
+Turned off during daytime;日中はオフ
+Fluid ingredient shortage;流体入力不足
+Fluid production overload;流体生産過剰
+Item ingredient shortage;素材不足
+Output full;生産過剰
+Burnt result output full;燃焼生成物で出力が満杯です
+Marked for deconstruction;解体予定
+Missing required fluid;流体入力不足
+Missing science packs;サイエンスパック不足
+Waiting for source items;材料待ち
+Waiting for space in destination;運搬先の容量不足
+Preparing rocket for launch;ロケット発射準備中
+Waiting to launch rocket;ロケット打ち上げを待機中
+Launching rocket;ロケット発射中
+No modules to transmit;モジュールが装着されていません
+Recharging after power outage;放電後の充電中
+Waiting for target to be built;目標物が生成されるのを待っています
+Waiting for train;列車を待っています
+Not plugged in electric network;電気ネットワークに接続されていません
+Connection;接続
+Connected to __1__;__1__ と接続中
+Not connected;未接続
+Idle;待機
+Shooting;射撃中
+Moving (__1__);移動中(__1__)
+Segment;セグメント
+Block;ブロック
+Trains in block;ブロック内の列車
+Segment position;セグメントの位置
+Front rail;前端
+Back rail;後端
+Tools;ツール
+Panels;パネル
+Page __1__/__2__;__1__/__2__ ページ
+__1__: select;__1__: 選択
+__1__: next tab;__1__: 次のタブ
+__1__: previous tab;__1__: 前のタブ
+__1__: next page;__1__: 次のページ
+__1__: previous page;__1__: 前のページ
+Expand;展開
+Collapse;折りたたむ
+Failed to reach auth server. Code: __1__. Error: __2__.;認証サーバに到達できません。コード：__1__，エラー：__2__。
+Given username is too short (min. 2 characters).;ユーザー名が短すぎます (最短2文字).
+Given username is too long (max. 30 characters).;ユーザー名が長すぎます (最長30文字).
+Your username contains invalid characters. Please only use letters, numbers, and the characters ._-;ユーザー名に無効な文字が含まれています。半角英数字および._-（ピリオド、アンダーバー、ハイフン）のみ使用可能 ._-
+Given username is already registered. Please choose a different one, or log in if it is yours.;ユーザー名はすでに登録されています。その他のユーザー名を使用するか、自分のユーザー名ならログインしてください。
+Verifying Steam user ticket failed. Please ensure you're logged into Steam and try again.;Steamユーザーチケットの検証に失敗しました。Steamにログインしていることを確かめてからもう一度試してください。
+Your Steam account is already linked to an existing Factorio.com account. Please log in using your Factorio account instead.;Steamアカウントは既に既存のFactorio.comアカウントにリンクされています。代わりにFactorioアカウントを使用してログインしてください.
+Your Steam account does not own Factorio. Please buy the game in order to create an account.;あなたのSteamアカウントはFactorioを所持していません。アカウントを作るにはゲームを購入してください。
+Given username or email and password do not match any account.;入力された内容に一致するアカウントが存在しません。
+The given Factorio.com account is a Steam-only account. Please log in with Steam or visit __1__ to set a password.;このFactorio.comアカウントはSteam専用アカウントです。Steamでログインするか__1__を開いてパスワードを設定してください。
+Your username contains invalid characters. Please visit __1__ in your web browser and choose a new username.;ユーザー名が不正な文字を含んでいます。__1__にブラウザでアクセスしてユーザー名を変更してください。
+Your account doesn't own the game. Please buy it to log in.;あなたのアカウントはゲームを所持していません。ログインするにはゲームを購入してください。
+Failed to verify Factorio ownership because the connection to Steam timed out. Please try again.;Steamとの接続がタイムアウトしたため、Factorioの所持確認に失敗しました。再試行してください。
+Action failed due to a timeout. Please try again later.;タイムアウトのため失敗しました。後でもう一度お試しください。
+Verifying your account failed. Please ensure you're logged into the service provider and try again.;アカウントの確認に失敗しました。サービスプロバイダにログインしていることを確認して、もう一度お試しください。
+Your Steam account does not seem to own the game any longer, therefore we have unlinked it from your Factorio account. You can link your Factorio account to a Steam account that owns the game to restore your membership.;あなたのSteamアカウントはゲームを所有していないようです。そのため、Factorioアカウントとの連携が解除されました。 Factorioアカウントをゲームを所有しているSteamアカウントにリンクしてメンバーシップを復元できます。
+Too many failed login attempts. Please try again later. If you have forgotten your password, you can reset it at __1__;ログインに失敗した回数が多すぎます。後でもう一度お試しください。パスワードを忘れた場合は、 __1__ でリセットできます。
+Your IP address is on the blacklist due to abuse in the past. If you feel like this is in error and would like the ban to be lifted, please contact __1__.;あなたのIPアドレスは過去の悪用のためブラックリストに掲載されています。もしこれが間違いであり、禁止を解除してほしい場合は、__1__ までご連絡ください。
+Cannot log in because your account is pending deletion. If you wish to cancel this process, log in on the website, __1__.;あなたのアカウントは削除処理待ち状態のためログインできません。この処理を中止したい場合は、 __1__ にログインしてください。
+E-mail authentication required. Please log in to Factorio.com with your browser and enter the code we sent to you.;メール認証が必要です。ブラウザでFactorio.comにログインし、送信したコードを入力してください。
+Invalid authentication code. Please check your e-mail and try again.;無効な認証コードです。メールアドレスを確認してもう一度やり直してください。
+The version of your game client is too old to use online services. Please update to the latest Factorio release.;ゲームのバージョンが古いのでオンラインサービスを利用できません。最新バージョンにアップデートして下さい。
+Online services are currently down for maintenance. Please try again later.;メンテナンスのためオンラインサービスは現在停止中です。後でもう一度お試しください。
+Given email address is in an incorrect format, please check it.;指定されたメールアドレスは正しくない形式です。確認してください。
+This email address is already registered.;このメールアドレスは既に登録されています。
+You may only change your email address once in 7 days.;メールアドレスは7日間に1回のみ変更できます。
+Blueprint library (__CONTROL__toggle-blueprint-library__);建設計画ライブラリ(__CONTROL__toggle-blueprint-library__)
+Bonuses;ボーナス
+Map;マップ
+Tips and tricks;ヒント
+Trains (__CONTROL__open-trains-gui__);列車（__CONTROL__open-trains-gui__）
+Achievements;実績
+Technology screen;技術スクリーン
+Add tag;タグを追加
+Add ping;Pingを追加
+__1__ on the map or in the world to activate directly.;__1__をマップ・メイン画面で使用するとpingを直接追加します
+Electric networks;電力ネットワーク
+Turret coverage;タレット攻撃範囲
+Train stop names;駅名
+Player names;プレイヤー名
+Worker robots;ロボットを表示
+Rail signal states;列車用信号の状態
+Recipe icons;レシピアイコンを表示
+Resources;資源
+Terrain;地形
+Enemy;敵
+Advanced;高度な設定
+Controls the distribution of grass versus desert. A higher bias generates more grass.;草原と砂漠の分布をコントロールします。高い偏りはより多くの草原を生成します。
+Controls the distribution of red desert versus sand. A higher bias generates more red desert.;赤い砂漠と砂地の分布をコントロールします。高い偏りはより多くの赤い砂漠を生成します。
+Bias;偏り
+[modified];[変更済]
+Reset to preset default;プリセットの標準設定に戻す
+Frequency;頻度
+Scale;スケール
+Coverage;範囲
+Richness;資源量
+Constant offset to apply.;適用するオフセットの値(定数)
+Overall scale of features and the space between them.;地形の全体的スケール・地形同士の距離。
+How much the map is covered with this feature.;どの程度これでマップが覆われているか
+The number of cliffs.;崖の数。
+Continuity;連続性
+The length of unbroken cliff segments.;切れ目のない複数の崖の長さ。
+The number of resource patches.;鉱床の数。
+The area of each resource patch.;それぞれの鉱床の大きさ。
+The amount of resources per tile within resource patches.;鉱床内の1タイルあたりの資源量。
+Import map exchange string;マップ設定コードの読み込み
+Export map exchange string (stores the map settings and can be shared);マップ設定コードの出力（マップ設定を文字列にして共有できます）
+Input a map exchange string to load settings from.;マップ設定コードを読み込んで設定に反映します。
+Failed to import map exchange string.;マップ設定コードの読み込みに失敗しました。
+Width;幅
+Height;高さ
+Seed;シード値
+Map type;マップの種類
+Random seed;ランダムシード
+Map width;マップの幅
+Map height;マップの高さ
+Invalid value for "__1__" field. Permitted values are __2__ to __3__.;"__1__" の欄の値が不正です。許容値は __2__ ～ __3__です。
+Play (__CONTROL__editor-toggle-pause__);プレイ
+Next;次
+Water;水
+Island size;島のサイズ
+Cliffs;崖
+Enemy base;敵の巣
+Starting area size;スタートエリアのサイズ
+The size of the area without enemy bases around the player.;プレイヤーの周辺のバイターの巣が存在しないエリアのサイズ。
+Peaceful mode;ピースフルモード
+In peaceful mode, the enemies will not actively attack or expand. Enemies will still attack to defend themselves.\nNote: Enabling this will disable some achievements.;ピースフルモードでは敵は自発的な攻撃や領土拡張を行いません。敵は自分自身を守るための反撃は行います。\n注：これを有効にするといくつかの実績を獲得できなくなります。
+Record replay;リプレイを記録
+Record replay for this save file so it can be watched back. Increases save file size and saving times.;セーブデータ内にリプレイ情報を含め、後から動画として再生できるようにします。セーブファイルのサイズとセーブにかかる時間が増加します。
+Difficulty;難易度
+Price multiplier;研究コスト倍率
+Enabled;有効
+Diffusion ratio;伝播率
+Absorption modifier;汚染吸収量調整
+Attack cost modifier;攻撃コスト倍率
+Minimum to damage trees;木にダメージを与える最小汚染量
+Absorbed per damaged tree;ダメージを受けた木の汚染吸収量
+Time factor;経過時間の影響
+Destroy factor;巣の破壊の影響
+Pollution factor;汚染発生の影響
+Enemy expansion;敵拠点の拡大
+Maximum expansion distance;最大展開距離
+Minimum group size;最小敵集団サイズ
+Maximum group size;最大敵集団サイズ
+Minimum cooldown;最小クールダウン
+Maximum cooldown;最大クールダウン
+min;分
+The amount of pollution diffused into neighboring chunks per second.;1秒間に汚染が隣接チャンクに移動する量。
+Modifier of how much pollution is absorbed by trees and tiles.;木とタイルがどれだけ汚染を吸収するかを調整します。
+Modifier of how much pollution is consumed to send a biter to attack.;バイターが攻撃に向かう汚染の消費量の調整。
+Trees have 4 different progressive stages toward being destroyed by pollution. Any pollution above this amount starts the process of moving a tree toward a more damaged stage.;木は汚染によって枯死に至るまで4つの段階があります。汚染がこの値を超えると木は枯れ始めます。
+Trees have 4 different progressive stages toward being destroyed by pollution. This value specifies how much pollution is absorbed when moving to a more damaged stage.;木は汚染によって枯死に至るまで4つの段階があります。この値はどれだけ汚染を吸収すると段階が進むかを設定します。
+Controls how fast evolution increases over time.;時間の経過とともにどれだけ進化が進むかを決定します。
+Controls how fast evolution increases due to destroying enemy spawners.;敵の巣を破壊することでどれだけ進化が進むかを決定します。
+Controls how fast evolution increases due to producing pollution.;汚染を発生させることでどれだけ進化が進むかを決定します。
+The maximum distance enemies will look to expand from other enemy bases.;敵が新たな拠点を展開するときの敵拠点間の最大距離。
+The minimum size of an enemy expansion party modified by the current evolution level.;現在の進化度によって決められる敵拠点拡張部隊の最小数。
+The maximum size of an enemy expansion party modified by the current evolution level.;現在の進化度によって決められる敵拠点拡張部隊の最大数。
+The minimum time between enemy expansions being sent out.;新たな拠点を作る敵集団が送り出される最小時間間隔。
+The maximum time between enemy expansions being sent out.;新たな拠点を作る敵集団が送り出される最大時間間隔。
+Recipes;レシピ
+Technology;研究
+Generators;ジェネレーター
+Preview;プレビュー
+Close preview;プレビューを閉じる
+Spoiler Alert: Do not show the preview if you want to explore the map on your own.;ネタバレ警告 : 自分自身でマップを探索したい場合、プレビュー機能を利用しないでください。
+Auto-refresh;自動更新
+Automatically refresh the preview on any change to the settings.;設定を変更した際に自動でプレビューを更新します。
+Error generating preview;プレビューの生成中にエラーが発生しました
+Research queue availability;研究予約の利用
+Always;常に
+After the game is finished;ゲームクリア後
+Reset __1__ __plural_for_parameter_1_{1=option|rest=options}__ to preset __plural_for_parameter_1_{1=default|rest=defaults}__;__1__個のオプションをプリセットの標準設定に戻します。
+All options have preset values.;全てのオプションはプリセットの標準値です。
+Trains;列車
+Stations;駅
+There are no trains with this stop.;列車がありません。
+No Stations found.;駅がありません。
+Manual;マニュアルモード
+Open train menu;列車メニューを開く
+Open train stop on map;マップで駅を開く
+Trains:;列車:
+[Empty];[Empty]
+Train limit set by circuit network.;回路ネットワークによって設定された列車制限数
+Train stop disabled by circuit network.;回路ネットワークによって無効に設定された駅
+__REMARK_COLOR_BEGIN__[__1__]__REMARK_COLOR_END__;__REMARK_COLOR_BEGIN__[__1__]__REMARK_COLOR_END__
+(Note: Some stops do not have a train limit set);(注:いくつかの駅は列車数制限を設定していません)
+[img=utility/warning_icon] Manually stopped;[img=utility/warning_icon]手動モード
+Manually driving;手動運転
+No schedule;時刻表設定なし
+Heading to __1__ __REMARK_COLOR_BEGIN__[__2__m]__REMARK_COLOR_END__;__1__に走行中 __REMARK_COLOR_BEGIN__[__2__m]__REMARK_COLOR_END__
+[img=utility/warning_icon] No path to __1__;[img=utility/warning_icon]__1__への到達経路なし
+Standing at __1__;__1__に停車中
+Waiting at __1__;__1__に停車中
+[img=utility/warning_icon] No valid stops;[img=utility/warning_icon]有効な駅なし
+Logistic request slots;物流要求スロット
+Logistic trash slots;物流廃棄スロット
+Follower robot count;追従ロボット数
+Research productivity;研究効率
+Stack inserter capacity;スタックインサータ容量
+Inserter capacity;インサータ容量
+(Stacks with ammo bonuses);(弾丸のボーナスと重複可)
+Mining productivity;掘削効率
+Train braking force;列車制動力
+No bonuses researched yet.;ボーナスはまだ研究されていません。
+Battery size;電池容量
+Bonus inventory slots;追加のインベントリスロット
+Build distance;建築距離
+Reach distance;操作可能距離
+Resource reach distance;採掘可能距離
+Item pickup distance;アイテム拾得距離
+Item drop distance;アイテム投棄距離
+Loot pickup distance;戦利品拾得距離
+Artillery range;長距離砲射程距離
+The game is modded. Achievements are separate from the vanilla version of the game.;このゲームはmodが適用されています。実績はバニラとは異なる管理となります。
+Earned __1__ of __2__;__2__個中__1__個を獲得
+Start tracking;トラッキングの開始
+Stop tracking;トラッキングの停止
+If disabled: only in starting area;無効の場合: スタートエリア内のみ
+Expensive;高コスト
+At least one tile type has to be allowed.;少なくとも１種類のタイルが配置可能でなければなりません。
+Entity tag;エンティティタグ
+Properties;プロパティ
+Indestructible;破壊不可
+Not minable;採掘不可
+Not rotatable;回転不可
+To be looted;拾得予定
+Recipe locked;レシピ未解禁
+Apply tag;タグ適用
+Apply health;耐久を適用
+Corpse expires;死体の期限
+Set up new blueprint;新しい建設計画をセットアップ
+Blueprint item;建設計画アイテム
+Blueprint in the blueprint library;建設計画ライブラリの建設計画
+Blueprint in the blueprint library owned by another player;他プレイヤー所有の建設計画ライブラリの建設計画
+Settings;設定
+Icon;アイコン
+When empty, the book shows the icon of the active blueprint.;空の場合、アイコンにはアップグレードフィルターが表示されます。
+Components;構成部品
+__ALT_CONTROL_RIGHT_CLICK__1__ to remove all components of that type.\n__ALT_CONTROL_LEFT_CLICK__1__ to add all components of that type back.;__ALT_CONTROL_RIGHT_CLICK__1__ で同じアイテムをすべて削除します。\n__ALT_CONTROL_LEFT_CLICK__1__ で同じアイテムすべてを追加します。
+Create blueprint;建設計画を作成
+Save blueprint;建設計画を保存
+Close blueprint;建設計画を閉じる
+Unnamed blueprint;名無しの建設計画
+Snap to grid;マス目に自動調整する
+Snapping the blueprint to a grid when being built.;建設中に建設計画をマス目に対し自動調整します。
+Grid position;グリッド位置
+__CONTROL_KEY_SHIFT____CONTROL_STYLE_BEGIN__ + __CONTROL_STYLE_END____CONTROL_LEFT_CLICK__ in the preview to change the grid position.;プレビューで __CONTROL_KEY_SHIFT____CONTROL_STYLE_BEGIN__ + __CONTROL_STYLE_END____CONTROL_LEFT_CLICK__ を押すと、グリッドの位置を変更できます。
+Dimensions of building repetition pattern.;建物の反復パターンのサイズ
+Absolute;絶対的
+Snaps to global grid. The coordinates specify how the blueprint placement is positioned relative to the global grid.;マップの座標を基準にして設置位置を調整します。入力する数値は、建設計画がマップ座標に対してどれだけ移動して設置されるかを指定します。
+Relative;相対的
+Allows the blueprint to snap relatively to where the build by dragging started.;建設計画を最初に置いた位置を基準にして設置位置を調整します。
+EULA;使用許諾契約書
+Credits;クレジット
+Gun slots are full.;武器スロットが一杯です。
+Weapons;武器
+Artillery ammo;長距離砲弾
+Grabbed item;掴んでいるアイテム
+Ingredient;素材
+Possible inputs;利用可能な入力
+Fluid ingredient;流体資源
+Possible fluid inputs;流体入力可
+N/A;N/A
+Open equipment grid;装備グリッドを開く
+Result;結果
+Refresh;再読込
+Update;アップデート
+Restart;リスタート
+Synchronize;同期
+Inventory;インベントリ
+Crafting;クラフト
+Load;ロード
+Close;閉じる
+Are you sure you want to restart?;リスタートしますか？
+The scenario is not saved. Are you sure you want to quit?;シナリオはセーブされていません。終了してもよろしいですか？
+Confirmation;確認
+Notice;注意
+Owner;所有者
+Set the filter;フィルターを設定
+Set the amount;数量を設定
+Mod scenarios:;MODシナリオ:
+User scenarios:;ユーザーシナリオ:
+Exit;終了
+Select filter;フィルターを選択
+Module;モジュール
+Allowed modules:;利用可能モジュール:
+Changelog;変更履歴
+Since last played (__1__);最終プレイ (__1__)
+Sub-version:;サブバージョン
+Release date:;リリース日
+Script inventory;スクリプト・インベントリ
+Licenses;ライセンス
+__1__ to activate.;__1__ を有効にします。
+__1__ to throw.;__1__で展開します。
+__1__ to consume.;__1__で消費します。
+__1__ to shoot.;__1__で攻撃します。
+__1__ and hold to repair selected entity.;__1__ を保持して選択した機器を修復します。
+__1__ to mine built tiles.;__1__で舗装を撤去。
+__1__/__2__ to change the area size.;__1__/__2__でエリアサイズを変更。
+__1__ on a spidertron to connect it.;スパイダートロンに搭乗時__1__で接続します。
+__1__ to send spidertron.;__1__でスパイダートロンに送信します
+__1__ to queue move command.;__1__で移動命令を予約します。
+__1__ to follow the selected entity.;__1__で選択した対象を追従します。
+__1__ and drag to deconstruct.;__1__ をドラッグして解体します。
+__1__ and drag to cancel deconstruction.;__1__ をドラッグして解体をキャンセルします。
+__1__ and drag to upgrade.;__1__ をドラッグしてアップグレードします。
+__1__ and drag to cancel upgrade orders.;__1__ をドラッグしてアップグレード指示をキャンセルします。
+__1__ and drag to downgrade.;__1__ をドラッグしてダウングレードします。
+When in cursor;カーソルに持った状態で
+__1__ and drag to select contents.;__1__ をドラッグして内容を選択します。
+__1__ and drag to select and bypass the configuration window.;__1__ をドラッグして設定ウィンドウを選択してバイパスします。
+__1__ for next.;次へ：__1__
+__1__ for previous.;前へ：__1__
+__1__ to open.;__1__で開きます
+__1__ to reset.;__1__でリセットします
+__1__ to clear.;__1__でクリア
+__1__ to destroy.;__1__ を破壊する。
+__1__ to clear shortcut.;__1__でショートカットをクリア。
+__1__ to force build.;__1__で上書き設置。
+Inventory filter;インベントリフィルター
+Limit part of the inventory so it cannot be filled by machines.;機械が充填するインベントリのスロットを制限します。
+__CONTROL_RIGHT_CLICK__ to remove, __CONTROL_LEFT_CLICK__ to restore.;__CONTROL_RIGHT_CLICK__ で削除、 __CONTROL_LEFT_CLICK__ で復元。
+__CONTROL__mine__ to remove, __CONTROL__build__ to restore.;__CONTROL__mine__ で削除、 __CONTROL__build__ で復元。
+This blueprint cannot be altered as it is in another player's library.;他のプレイヤーのライブラリに入っているので、この建設計画に変更を加えることはできません。
+This blueprint cannot be altered, its data is saved separately to allow restoration of modded content.;この建設計画は変更できません。データは別々に保存され、変更されたコンテンツを復元することができます。
+This blueprint cannot be altered as the contents have not been transferred to the game yet.;内容がまだゲームに転送されていないため、この建設計画は変更できません。
+Select replacement;置き換え選択
+Total;合計
+Delete blueprint;建設計画を削除する
+Delete blueprint book;建設計画の本を削除する
+The blueprint is empty.;建設計画は空です。
+Blueprint has to have at least one icon.;建設計画には最低1つのアイコンが必要です。
+Export to string;コードをエクスポート
+No blueprint in cursor to drop.;カーソルに建設計画がありません。
+Cannot modify another player's storage.;他のプレイヤーの建設計画は編集できません。
+Cannot modify blueprint with unknown entity data.;未知のエンティティのデータが含まれる場合、建設計画を変更することはできません。
+The blueprint was moved away by another player.;その設計図は他のプレイヤーによって移動されました。
+Clear blueprint;建設計画を空にする
+Destroy blueprint;建設計画を破棄する
+Create copy of this;コピーを作成
+Select new contents for the blueprint.;建設計画の内容を新しく選択する。
+Destroy blueprint book;建設計画の本を破棄する
+Destroy Deconstruction planner;解体プランナーを削除する
+Destroy __1__;__1__ を破壊
+Upgrade items and entities in the blueprint.;建設計画のアイテムとエンティティをアップグレードする。
+Upgrade items and entities in all blueprints in this book.;この本のすべての建設計画のアイテムとエンティティをアップグレードする。
+Select upgrade;アップグレードを選択
+Entities;設置物
+Tiles;タイル
+Modules;モジュール
+Train fuel;列車燃料
+Include trains in the blueprint;建設計画に列車を含める
+Blueprint hasn't yet finished downloading from the library;ライブラリからの建設計画のダウンロードが完了していません
+Cannot transfer blueprint: player offline;建設計画を転送できません : プレイヤーはオフラインです
+Player's blueprint storage not ready yet;プレイヤーの建設計画ストレージは準備中です。
+Map exchange string;マップコード
+Sync mods with save;MODとセーブを同期
+Loading multiplayer map;マルチプレイヤーマップを読み込んでいます
+Saving the map;マップを保存しています
+Converting map __1__;マップ__1__を変換しています
+Loading new map;新しいマップを読み込んでいます
+Generating new map;新しい地図を生成中
+Set;設定
+Select a signal;シグナルを選択
+Or set a constant;もしくは一定値
+Constant number;定数
+Preparing;準備中
+Launch;打ち上げ
+Launched;打ち上げ完了
+Rocket cargo;ロケット貨物
+You are expected to put the satellite here.;人工衛星をここに設置して下さい。
+Results from launching the rocket;ロケット打ち上げによる成果
+Search (__1__);検索 (__1__)
+Search;検索
+Any;任意
+Yes;はい
+No;いいえ
+Log in;ログイン
+Confirm;確認
+Reset filters;フィルターをリセットします
+All;全て
+Enable logistics while moving;移動中の補給を有効にする
+Grid;グリッド
+Mining fluid;採掘液
+Transferring;転送中
+Queued for transfer;転送待機中
+Mod with this campaign is not available.;このキャンペーンの mod は使用できません。
+No recipe available;利用可能なレシピがありません。
+No recipes found;レシピが見つかりません。
+No tips and tricks found;ヒントが見つかりませんでした
+On;オン
+Off;オフ
+Edit label, description and icons.;ラベル、説明、アイコンを編集します。
+Mods have been removed or mod settings have changed. Are you sure you want to continue loading this save?;Modが削除されたか、Modの設定が変更されました。この保存を読み込み続けてもよろしいですか？
+Sync mods and load;MODを同期してロードする
+Logistic requests disabled;物流要求は無効になっています
+Not in logistic network;物流ネットワーク範囲内にいません
+Confirm (__CONTROL__confirm-gui__);確認 (__CONTROL__confirm-gui__)
+Close (__CONTROL__confirm-gui__ or __CONTROL__toggle-menu__);閉じる (__CONTROL__confirm-gui__または__CONTROL__toggle-menu__)
+Cancel (__CONTROL__toggle-menu__);キャンセル (__CONTROL__toggle-menu__)
+Space usage: __1__ MB / __2__ MB;スペース使用量: __1__ MB / __2__ MB
+See the map for more details.;マップを見て詳細を確認してください!
+__1__ __plural_for_parameter_1_{1=turret is|rest=turrets are}__ engaged with the enemy.;__1__基のタレットが敵と交戦中です。
+__1__ __plural_for_parameter_1_{1=entity is|rest=entities are}__ being damaged.;__1____plural_for_parameter_1_{1,2,3,4,5,6,7,8,9=つ|rest=個}__のエンティティがダメージを受けています。
+__1__ __plural_for_parameter_1_{1=entity is|rest=entities are}__ destroyed.;__1____plural_for_parameter_1_{1,2,3,4,5,6,7,8,9=つ|rest=個}__のエンティティが破壊されました。
+__1__ __plural_for_parameter_1_{1=entity is|rest=entities are}__ missing repair packs.;__1____plural_for_parameter_1_{1,2,3,4,5,6,7,8,9=つ|rest=個}__のエンティティを修理するためのリペアキットが不足しています。
+__1__ __plural_for_parameter_1_{1=entity is|rest=entities are}__ missing construction robots.;__1____plural_for_parameter_1_{1,2,3,4,5,6,7,8,9=つ|rest=個}__のエンティティを建設するための建設ロボットが不足しています。
+__1__ __plural_for_parameter_1_{1=entity is|rest=entities are}__ missing the material for construction.;__1____plural_for_parameter_1_{1,2,3,4,5,6,7,8,9=つ|rest=個}__のエンティティを建設するための資材が不足しています。
+Not enough logistic network storage space available.;貯蔵チェストの空き容量が不足しています。
+Train out of fuel.;列車が燃料切れです。
+Info;詳細
+Logistic filter;物流フィルター
+Set request;要求をセット
+Request from buffer chests;バッファーチェストから取り寄せる
+Auto-trash;自動ゴミ
+Members;構成
+Network;ネットワーク
+cell;セル
+cells;セル
+Count;数量
+Personal logistics and auto-trash;個人物流・廃棄
+Personal logistics;個人物流
+Request for this item already exists;このアイテムは既に要求しています
+Auto-trash filters;自動廃棄フィルター
+Trash slots are full.;廃棄スロットが一杯です。
+Maximum amount. Items over this will automatically move into the trash slots.;最大量。この量を越えたアイテムは自動で廃棄スロットに移動されます。
+Requested amount. Logistic robots will try to satisfy it from the network.;要求量。物流ロボットはネットワークを使ってこの量を満たそうとします。
+inf.;∞
+Crafting queue;クラフト中のアイテム
+Personal roboport;個人用ロボットステーション
+Exoskeleton;強化外骨格
+Turning off personal logistics will stop logistic robots from bringing requested items. It will also stop items from automatically being moved to the trash slots. Logistic robots will continue to empty the trash slots.;個人用物流をオフにすると、要求したアイテムを物流ロボットが持ってこないようになります。アイテムを自動で廃棄スロットに移動することもなくなります。物流ロボットが廃棄スロットを空にしようとする動作は継続されます。
+Keep at least this percentage of fluid in the pipe - add missing.;不足分を追加し、最低でもこの割合の流体をパイプに保持するようにします。
+Keep at most this percentage of fluid in the pipe - remove extra.;過剰分を除去し、最高でもこの割合の流体をパイプに保持するようにします。
+Keep exactly this percentage of fluid in the pipe - add or remove as needed.;必要に応じて追加・除去を行い、この割合ちょうどの流体をパイプに保持するようにします。
+Add this percentage of fluid to the pipe on every tick.;Tick毎にパイプに追加される流体の割合。
+Remove this percentage of fluid from the pipe on every tick.;Tick毎にパイプから削除される流体の割合。
+At least;最小
+At most;最大
+Exactly;丁度
+Add;追加
+__1__ to remove.;__1__ で解体する。
+Remove unfiltered items;フィルタリングされていないアイテムを削除
+Remove items from the inventory that aren't part of the filters list.;フィルタリングされていないアイテムをインベントリから削除
+Flush __1__ from this.;ここの __1__ を捨てる。
+Flush __1__ from entire fluid system.;流体システム全体の __1__ を捨てる。
+__1__ contents:;__1__ の中身 :
+Fluid system contents:;流体システムの中身 :
+Schedule;時刻表
++ Add wait condition;+ 発車条件を追加
+Time passed;経過した時間
+Full cargo;貨物車両が満杯
+Empty cargo;貨物車両が空
+Robots inactive;ロボットが非動作中
+Item count;貨物アイテム数
+Circuit condition;回路による
+Inactivity;非アクティブ
+Fluid count;流体量
+Automatic;自動
+Toggle stop names;駅名表示を切り替え
+Toggle centering on locomotive;機関車を中心に表示
+Open this location in the map;マップでこの場所を開く
+passed;経過
+Cargo;貨物
+Circuit;回路
+of inactivity;間の非アクティブ
+Locomotive doesn't need energy.;機関車は燃料を必要としません。
+Locomotive is out of reach.;機関車に手が届きません。
+Temporary: __1__;臨時駅: __1__
+Adding temporary;臨時駅を追加
+Invalid;不正
+No stops with this name exist.;この名前の駅は存在しません。
+__plural_for_parameter_1_{1=Stop is|2=Both stops are|rest=All __1__ stops are}__ disabled.;__plural_for_parameter_1_{1=駅|2=両方の駅|rest=全ての __1__ 駅}__ が無効です。
+__plural_for_parameter_1_{0=No stop is accessible|1=Stop is inaccessible|2=Both stops are inaccessible|rest=All __1__ stops are inaccessible}__ from current position.;この場所からは__plural_for_parameter_1_{0=到達できる駅がありません|1=その駅に到達できません|2=2つの駅に到達できません|rest=__1__個の駅に到達できません}__。
+Only __1__ out of __2__ stops __plural_for_parameter_1_{1=is|rest=are}__ accessible.;__2__のうち__1__の駅__plural_for_parameter_1_{1=のみ|rest=のみ}__到達可能。
+No rail nearby;付近に線路なし
+No path to destination;目的地への経路がありません
+Interaction;__CONTROL_STYLE_BEGIN____1__ + __CONTROL_STYLE_END____CONTROL_LEFT_CLICK__ で臨時駅の挿入。 __CONTROL_STYLE_BEGIN____2__ + __CONTROL_STYLE_END____CONTROL_LEFT_CLICK__ で選択した駅を時刻表に追加。
+Trains with this stop: __1__;この駅に停車する列車
+The number of stops with this name.;同名駅の数。
+Rename stop;駅の名前を変更
+Enable train limit;列車数上限を有効にする
+__1__ __plural_for_parameter_1_{1=second|rest=seconds}__ passed;__1__ __plural_for_parameter_1_{1=秒|rest=秒}__ 経過
+Full cargo inventory;貨物車両が満杯
+Empty cargo inventory;貨物車両が空
+No robots are deployed;ロボットが配置されていない
+Cargo: __1__ __2__ __3__;貨物:__1__ __2__ __3__
+Circuit: __1__ __2__ __3__;回路:__1__ __2__ __3__
+__1__ __plural_for_parameter_1_{1=second|rest=seconds}__ of inactivity;__1__ __plural_for_parameter_1_{1=秒|rest=秒}__間の非アクティブ
+Fluid: __1__ __2__ __3__;流体: __1__ __2__ __3__
+Passenger present;乗客あり
+Passenger not present;乗客なし
+Apply change;変更を適用
+Entity filter mode;エンティティ フィルターモード
+Tile filter mode;舗装 フィルターモード
+Tile selection mode;舗装選択モード
+Entity filters;エンティティ フィルター
+Tile filters;舗装フィルター
+Only select filtered items when selecting an area for deconstruction.;フィルターされたアイテムのみ解体プランナーによって選択されます。
+Blacklist;ブラックリスト
+Ignore all filtered items when selecting an area for deconstruction.;フィルターされたアイテム以外が解体プランナーによって選択されます。
+Trees/rocks only;木と岩のみ
+Only trees/rocks;木・岩のみ
+Ignore trees/rocks;木・岩以外
+Installed;元
+New version;新しいバージョン
+Only;舗装のみ
+Normal: tiles are selected when no entities are found.;通常： 施設を選択していない場合に舗装が選択されます。
+Always: tiles are always selected even when entities are found.;常に： 施設を選択している場合でも舗装を選択します。
+Never: tiles are never selected.;選択しない： 舗装を選択しません。
+Only: only tiles are selected.;制限：タイルのみが選択されています。
+Effects;効果又は製作可能になるアイテム
+Resume;再開
+(Map editor) __CONTROL_LEFT_CLICK__ to research. __CONTROL_KEY_SHIFT____CONTROL_STYLE_BEGIN__ + __CONTROL_STYLE_END____CONTROL_LEFT_CLICK__ to instant research with all prerequisites.;（マップエディタ） __CONTROL_LEFT_CLICK__ で研究。 __CONTROL_KEY_SHIFT____CONTROL_STYLE_BEGIN__ + __CONTROL_STYLE_END____CONTROL_LEFT_CLICK__ ですべての前提テクノロジーを研究。
+Un-research;未研究にする
+(Map editor) Un-research technology;(マップエディタ)技術を未研究にする
+(Map editor) Technology not researched;(マップエディタ)未研究の技術
+(__1__);(__1__)
+Cost;コスト
+Time needed to research one unit in the lab;研究所で1単位研究するのに必要な時間
+Researched;研究済み
+Available;研究可能
+Disabled;未知
+Unavailable;研究不可能
+Researching;研究中
+Queued;研究予約済み
+Technology is already researched;この技術は研究済みです。
+Technology is already queued;この技術は研究予約済みです。
+Technology is already being researched;この技術は研究開始済みです。
+All levels for this technology are already researched or queued;このレベルの技術は全て研究済みまたは研究予約済みです。
+Research queue full;研究予約が一杯です。
+Some prerequisite technologies are not researched;前提技術が不足しています
+Some prerequisite technologies are not researched, and are not queued for research;前提技術が不足しているか、研究予約されていません
+Robots;ロボット類
+Repair packs;リペアキット
+Buffer size;バッファサイズ
+Power production;発電量
+Power usage;電力使用量
+Game blueprints;ゲームの建設計画
+__1__ - blueprint storage;__1__ - 建設計画ストレージ
+Unknown player storage;不明なプレーヤーのストレージ
+Blueprint book;建設計画の本
+Blueprint book edit;建設計画の本の作成
+Deconstruction tool edit;解体プランナーの編集
+Upgrade tool edit;アップグレードプランナーの編集
+Loading blueprint storage failed: __1__. Backing up current storage to __2__.;ストレージ__1__のロードができませんでした。現在のストレージは__2__にバックアップします。
+Loading blueprint storage from cloud failed. Local version of the storage is being loaded instead.;クラウドから建設計画ストレージをロードできませんでした。 ローカルバージョンのストレージが代わりにロードされています。
+Saving blueprint storage to cloud failed. You may have run out of space available for Cloud Sync. To prevent losing your blueprint library, please back up the file __1__.;クラウドへ建設計画ストレージのセーブに失敗しました。 クラウド同期に使用可能な容量が不足している可能性があります。建設計画のライブラリの損失を防ぐため、ファイル__1__をバックアップしてください。
+Drop blueprint;建設計画をドロップ
+Shared blueprints;共有された建設計画
+My blueprints;自分の建設計画
+Filter:;フィルタ:
+New __1__;新しい __1__
+Import string;コードをインポート
+Blueprint string;建設計画のコード
+Blueprint book string;建設計画の本のコード
+Deconstruction item string;解体プランナーのコード
+Upgrade item string;アップグレードのコード
+Blueprint not available yet;建設計画はまだ使用できません。
+Transfer progress;転送中
+Synchronizing...;同期しています...
+Cannot manipulate shelf that is not synchronized yet.;まだ同期されていないためライブラリを操作できません。
+List view;リスト表示
+Grid view;グリッド表示
+[img=utility/warning_icon] [color=red]Blueprint library is not synchronized.[/color];[img=utility/warning_icon] [color=red]建設計画ライブラリが同期されていません。[/color]
+Blueprints;建設計画
+Use __CONTROL__cycle-blueprint-forwards__ and __CONTROL__cycle-blueprint-backwards__ to change active blueprint.;アクティブな建設計画を変更するには __CONTROL__cycle-blueprint-forwards__ と __CONTROL__cycle-blueprint-backwards__ を使ってください。
+Use __CONTROL_STYLE_BEGIN____1__Mouse wheel__CONTROL_STYLE_END__ to change active blueprint.;__CONTROL_STYLE_BEGIN____1__マウスホイール__CONTROL_STYLE_END__でアクティブな建設計画を変更します。
+Are you sure you want to delete the blueprint book?;本当に建設計画の本を削除しますか？
+Delete book;本を削除
+Unnamed blueprint book;名無しの建設計画の本
+Default Upgrade;デフォルトのアップグレード
+__CONTROL_LEFT_CLICK__ to apply as upgrade, __CONTROL_RIGHT_CLICK__ to apply as downgrade.;__CONTROL_LEFT_CLICK__ でアップグレード、 __CONTROL_RIGHT_CLICK__ でダウングレード。
+Save label;ラベルを保存
+Edit label;ラベルを編集
+Edit description;説明を編集
+Save description;説明を保存
+Correct:;一致:
+Not on mod portal:;MODポータルにない:
+Selected mod has no released version;リリース無し:
+No compatible version:;バージョンの互換性なし:
+Ready to download:;ダウンロード可能:
+Wrong version enabled:;間違ったバージョンが有効になっています:
+Enable;有効にする
+Download;ダウンロード
+Keep enabled;有効状態を維持
+Enable correct version;正しいバージョンを有効にする
+Not in save:;セーブデータにない:
+Your active mods don't match the server's. Do you want to sync your mods with the server?;MODをサーバーと同期
+The following mods aren't available on the mod portal: __1__;MODポータル上でこれらのMODが利用不可能です: __1__
+Sync startup settings;スタートアップ設定を同期
+Load save after sync;同期後にセーブを読み込み
+Join server after sync;同期後にサーバに参加
+__1__ __plural_for_parameter_1_{1=technology has|rest=technologies have}__ been omitted from this view.;__1__ 個のテクノロジーがこのビューから省略されています。
+Technology tree;テクノロジーツリー
+Press __CONTROL__open-technology-gui__ to start a new research.;__CONTROL__open-technology-gui__を押して、\n新しい研究を開始しましょう
+__1__ finished. Press __CONTROL__open-technology-gui__.;__1__の研究が完了しました。__CONTROL__open-technology-gui__を押してください。
+Main menu;メインメニュー
+Game menu;ゲームメニュー
+Continue __1__;__1__の続きを遊ぶ
+Load game __1__;__1__を読み込む
+Continue: Join __1__;__1__を続ける
+Join __1__;__1__に参加
+Continue: Host __1__;続ける: __1__をホスト
+Host __1__;__1__をホスト
+Single player;シングルプレイ
+Multiplayer;マルチプレイ
+Map editor;マップエディター
+Everything not shown in the normal settings menus.;通常のメニューに表示されていない設定
+Mods;MOD
+The rest;その他
+New game;ニューゲーム
+Host new game;ニューゲームをホスト
+Host saved game;セーブしたゲームをホスト
+Browse public games;公開サーバーを閲覧
+Browse LAN games;LANゲームを見る
+Connect to address;アドレスに接続
+Load game;ロード
+Graphics;グラフィック
+Sounds;サウンド
+Controls;キーコンフィグ
+Mod settings;MOD設定
+Interface;インターフェース
+Other;その他
+Unpause game;ポーズを解除
+Save game;セーブ
+Save as scenario;シナリオとして保存
+Quit game;タイトルに戻る
+Reconnect;再接続
+Show desync report;非同期レポートを表示
+Copy desync report path;非同期レポートパスのコピー
+Tutorial;チュートリアル
+Quit tutorial;チュートリアルを終了
+You desynchronized from the game.\nIf the problem persists, please report this problem in our bug report forum.;ゲームと同期がとれませんでした。\n解決しない場合は、この問題をバグレポートフォーラムへ報告してください。
+You desynchronized from the game.\nThis was caused by a bug in the game or a bug in one of the mods or scenario scripts (if any are in use).\nIf you are not using mods, please report this problem in our bug report forum. Include details about what the players were doing, and upload the desync report.;ゲームと同期がとれませんでした。\nゲーム自体のバグか、（もし使用していれば）MODやシナリオのバグが原因です。\nMODを使用していなければ、この問題をバグレポートフォーラムへ報告してください。報告にはプレーヤーが行った行動を詳細に記述し、クラッシュログをアップロードしてください。
+A desync report was created at: __1__;非同期レポートが次の場所に生成されました: __1__
+A desync report was not created because report creation is disabled. Please enable it and report the desync if you want it to be fixed.;レポート作成が無効化されているため、非同期レポートは作成されませんでした。修正が必要な場合、有効化し非同期レポートを報告してください。
+For more information about desyncs and how to report them, see:;非同期の問題とその報告手順については次を参照してください:
+User login;ユーザーログイン
+LAN username;LANユーザーネーム
+This feature is not available when an Instrument Mode mod is enabled.;Instrument Mode MODが有効な場合、この機能は利用できません。
+Release;リリース
+Website;ウェブサイト
+Forums;フォーラム
+Created by;作成者
+Save as;名前をつけて保存
+Are you sure you want to overwrite __1__?;本当に__1__を上書きしますか？
+Warning: The selected save has __1__ __plural_for_parameter_1_{1=hour|rest=hours}__ of playtime!;警告：選択したセーブデータは__1__時間プレイ済みです！
+Please choose a different save name.\nAutosave files are reserved for autosaves and will be overwritten during future autosaves.;別の名前で保存してください。\nAutosaveはオートセーブのために予約されており、オートセーブ実行時に上書きされてしまいます。
+Visibility;公開状態
+Access;アクセス
+Rights;権限
+Save upload;保存して アップロード
+Game saving;セーブ関連
+Admins only;管理者のみ可
+Verify that connecting players have a valid Factorio.com account and their player name matches their account name.;接続するプレイヤーが有効なFactorio.comアカウントを持ち、そのプレイヤー名がアカウント名と一致していることを確認してください.
+Only admins can pause;管理者のみポーズ可能
+AFK auto-kick;離席者の自動キック
+Server name;サーバ名
+Server password;サーバーパスワード
+It is recommended to set a password if you want to play privately.;知り合い同士でプレイしたい場合はパスワードを設定することをお勧めします。
+Description;説明
+Show;表示
+Public;公開
+Steam;Steam
+Enables or disables the "Join Game" feature through Steam.;Steam経由でゲームに参加する機能を有効/無効にします。
+LAN;LAN
+Ignore when returning;復帰プレイヤーは参加上限を無視
+Players that have already played on this map can join the game even though the player limit has been reached.;このマップに参加したことのあるプレイヤーは、現在の人数が上限に達していてもゲームに復帰できます。
+Max upload speed;最大アップロード速度
+No limit;アップロード速度無制限
+Maximum network speed dedicated to uploading the game to new players. Limiting it is useful to make sure there is enough upload speed left for players already in the game.;新しいプレイヤーにゲームをアップロードするためのネットワーク速度の最大値。これを制限することで、既存のプレイヤーへのデータアップロードに十分な帯域を確保することができます。
+Maximum number of concurrent map uploads. Limiting it is useful to make sure there is enough upload speed left for players already in the game.;マップを並行してアップロードするスロット数の最大値。これを制限することで、既存のプレイヤーへのデータアップロードに十分な帯域を確保することができます。
+Server name cannot be empty;サーバ名は空白にできません
+Max. upload speed must be an integer;最大アップロード速度は整数でなければなりません
+Max. upload slots must be an integer;最大アップロードスロットは整数でなければなりません
+Max. player count must be an integer;最大プレイヤー数は整数でなければなりません
+Enable non-blocking saving (Linux/macOS only);Non-blocking savingを有効にする (Linux/MacOSのみ)
+Experimental feature which allows the server to save the map without pausing the game. Only works on Linux and macOS.;ゲームを一時停止せずに、サーバーがマップを保存することを許可する実験的な機能。LinuxとmacOSでのみ動作します。
+__1__'s game;__1__のゲーム
+Use authserver side bans;認証サーバー側のBAN情報を使用する
+Verify that connecting players are not banned from multiplayer and inform Factorio.com about ban/unban commands.;接続しているプレイヤーがマルチプレイヤーからBANされていないことを確認し、BAN/UNBANコマンドについてFactorio.comに通知します。
+Edit whitelist;ホワイトリストを編集
+Edit banlist;Banリストを編集
+Admin list;管理者リスト
+Edit admin list;管理者リストを編集
+Victory!;成功！
+You have been defeated...;あなたは死にました...
+Playtime;プレイ時間
+Next level;次のレベル
+Finish;終了
+Restart level;やり直す
+Save replay;リプレイをセーブ
+Respawn;復活
+The resolution of the sprites. Determines VRAM usage. Warning: "High" resolution requires at least 3 GB of VRAM.;スプライトの解像度です。VRAMの使用量を決定します。警告：「高」の設定は最低3GBのVRAMが必要です。
+High;高
+Low;低
+Extra low;超低画質
+Full screen;フルスクリーン
+When running in borderless full screen, the game will minimize itself on focus loss to make sure it doesn't cover your desktop when you want to switch to a different application.;他のアプリを操作するためにフルスクリーン表示中のFactorioからフォーカスを外した場合、デスクトップを隠さないようにFactorioを最小化します。
+When disabled, the number of smoke effects that are rendered will be greatly reduced. Disable to increase performance on low-end video cards.;無効の場合、レンダリングされる煙エフェクトの数が大幅に減少します。無効にするとローエンドのビデオカードを使用している場合はパフォーマンスが向上します。
+Show clouds;雲を表示
+Show inserter shadows;インサータの影を表示
+Show decoratives;装飾を表示
+Show particles;パーティクルを表示
+Show item shadows;アイテムの影を表示
+Disable to increase performance on low-end video cards.;無効にすると、ローエンドのビデオカードを使用している場合はパフォーマンスが向上します。
+Preferred screen;優先画面
+Multisampling;マルチサンプリング
+No multisampling;マルチサンプリング無し
+Multisampling x 2;マルチサンプリングX2
+Multisampling x 4;マルチサンプリングX4
+Multisampling x 6;マルチサンプリングX6
+Multisampling x 8;マルチサンプリングX8
+Brightness;輝度
+Contrast;コントラスト
+Saturation;彩度
+Texture compression greatly increases number of sprites the game can fit to the video memory, and speeds up rendering due to GPU having to transfer less data during shading. If you have an old or integrated GPU, select low quality to reduce the size of sprites even more to get extra performance.;テクスチャ圧縮をすることで、より多くのスプライトをビデオメモリに置くことができ、GPUのデータ転送量も減るためレンダリングが速くなります。もしも古い、あるいは統合型のGPUを使用している場合、低品質を選ぶことでスプライトの容量を抑えてパフォーマンスを得ることができます。
+High quality;高品質
+Low quality;低品質
+Wait for VSync;垂直同期（V-SYNC）
+Determines how many sprites the game will try to put into sprite atlases. Creating larger sprite atlases reduces CPU usage due to the ability to batch draw calls, but may increase GPU load because the GPU has to work with larger textures. Free-floating sprites can be loaded into VRAM or kept in RAM (see Texture streaming setting).;スプライトをスプライトアトラスに配置する数を決定します。大きなスプライトアトラスを作ることで、GPUへの描画命令送信回数を減らしてCPU使用率を減らすことができますが、GPUが大きなテクスチャを扱うことになるためにGPU負荷が増大する可能性があります。スプライトアトラスに配置されなかったスプライトはVRAMに読み込まれるかRAMに残ります（テクスチャストリーミングの設定を参照）。
+Medium;普通
+Video memory budget;ビデオメモリ予想
+__1__ GB;__1__ GB
+Auto (__1__ GB);自動 (__1__ GB)
+Primary screen (__1__);メイン画面 (__1__)
+Screen __1__;スクリーン __1__
+The number of threads used to render the game.;ゲームの描画に使用されるスレッドの数。
+Sprites that were not put into any sprite atlas (see Video memory usage setting) will be kept in RAM until needed by the GPU.;スプライトアトラスに配置されなかったスプライト（ビデオメモリの使用量の設定を参照）を、GPUが必要とするまではRAMに残すようにします。
+On high-DPI screens (for example, Apple Retina), rendering in the native resolution will produce a higher quality image but may be very demanding on performance.;高DPIスクリーン(AppleのRetinaディスプレイのような)では、ネイティブの解像度でレンダリングするとより高品質の画像が生成されますが、非常に高い性能が要求されます。
+Flip presentation should be the more efficient method of presenting the final image on a screen than the older Blit model. Try toggling this option if you experience graphical glitches or framerate issues.;フリッププレゼンテーションモデルは、従来のブリットモデルより生成した画像を画面に表示する効率的な方法です。グラフィックの異常やフレームレートに問題があるといった際はこのオプションを切り替えてみてください。
+If disabled, some animated or rotated entities (for example, trains) will load only half of the normal count of animation or rotation frames. This greatly reduces VRAM usage.;無効の場合、一部のアニメーションや回転をするエンティティ(列車など)は通常のアニメーションのうち半分のフレームだけを読み込みます。これはVRAMの使用量を大幅に低減します。
+Rendering in only half (16-bit) color depth improves performance on low-end and integrated GPUs. This option only has an effect on Windows 8+ or in the OpenGL renderer.;ローエンドまたは統合型GPUの場合、ハーフカラー(色深度16bit) で描画をすることでパフォーマンスが向上します。このオプションはWindows8以降またはOpenGLで描画している場合のみ効果があります。
+Larger atlases improve draw call batching, which reduces CPU load in rendering, but may be harder to handle for the GPU.;大きなスプライトアトラスは描画命令呼び出しを改善して描画に関するCPU使用率を低減しますが、GPUがアトラスを扱う際の負荷が大きくなります。
+Largest possible;最大
+Custom (__1__);カスタム(__1__)
+Not enough video memory (VRAM).;ビデオメモリ (VRAM) が足りません。
+We could not detect how much video memory (VRAM) is available on this computer. The recommended video memory size for high-quality sprites is at least 2 GB, otherwise you may experience performance issues, missing graphics, crashes, or the game may not be able to start at all.;このコンピュータで使用可能なビデオメモリ (VRAM) の容量を検出できませんでした。 高品質なスプライトのための推奨ビデオメモリ容量は最低2GBです。これを満たさない場合、パフォーマンスの問題やグラフィックの欠落やクラッシュを引き起こしたり、ゲームが一向に開始されない可能性があります。
+We detected that this computer has __1__ MB of video memory (VRAM). That is too low for the high-quality sprites. You may experience performance issues, missing graphics, crashes, or the game may not be able to start at all. The recommended video memory size for high-quality sprites is at least 2 GB.;このコンピュータには __1__ MB のビデオメモリ (VRAM) が搭載されていますが、高品質なスプライトを描画するには十分ではありません。このためパフォーマンスの問題や描画の欠落、クラッシュ、ゲーム自体が開始できない可能性を引き起こす可能性があります。高品質なスプライトを描画するには 2GB 以上ビデオメモリを確保することが推奨されます。
+General;基本設定
+The game will be restarted to apply the new startup settings.;ゲームが新しいスタートアップ設定を適用するために再起動されます。
+Color filter;カラーフィルター
+Protanopia;第一色覚
+Deuteranopia;第二色覚
+Tritanopia;第三色覚
+Protanopia correction;第一色盲補正
+Deuteranopia correction;第二色盲補正
+Tritanopia correction;第三色盲補正
+Render scale;レンダリングスケール
+Map zoomed-in effect;マップのズームイン効果
+Show enemy terrain decals;敵の地形デカールを表示
+Ultrawide mode;超広角モード
+When in the main menu and sub menus, shows various game simulations in place of the background.;メインメニューとサブメニューで背景の代わりに様々なゲームデモが表示されます。
+The resolution of the sprites. Lower resolution will reduce memory usage and loading time.;スプライトの解像度。解像度を下げるとメモリ使用量とロード時間が削減されます。
+The rendering resolution of lights during the night. High values will greatly reduce performance.;夜間のライトのレンダリング解像度。高い値では、パフォーマンスが低下します。
+The maximum size of video memory (VRAM) the game is allowed to use for textures (sprites).;ゲームがテクスチャ(スプライト)に利用できるビデオメモリ(VRAM)の最大量
+Preferred output;優先出力
+Default device;デフォルトデバイス
+Master;マスター
+GUI effects;GUIエフェクト
+Game effects;ゲームエフェクト
+Music;音楽
+Walking sound;歩行音
+Environment sounds;環境音
+Alerts;警告音
+Wind;風
+Simulations;シミュレーション
+Movement;移動
+Basic interaction;基本の動作
+Advanced interaction;高度な動作
+Quickbar;クイックバー
+Quick panel;クイックパネル
+Miscellaneous;その他
+Waiting;待機中
+Disabled - changed by: __1__;無効 - __1__によって変更。
+Controller settings;コントローラーの設定
+Vibration intensity;バイブレーションの強度
+Vehicle driving mode;車両運転モード
+Moving the stick in a direction will make vehicles automatically turn and accelerate to that side of the screen.;スティックを動かすと、車両はその方向に自動的に回転し加速します。
+Moving the stick up/down will make vehicles accelerate/brake.\nMoving the stick left/right will make vehicles turn in that direction.;スティックを上・下に動かすと、車両が加速・減速します。\nスティックを左右に動かすと、車両がその方向に回転します。
+Startup;スタートアップ
+Per player;個人設定
+Yes*;はい
+Reload;リロード
+There are no settings to configure.;設定する項目はありません。
+There are no startup settings.;スタートアップ設定がありません。
+There are no map settings.;マップ設定がありません。
+There are no per-user settings.;ユーザー毎の設定がありません。
+Value cannot be empty.;値を空にすることはできません。
+One or more settings are invalid.;無効な設定が含まれています。
+Only admins can change these settings.;管理者のみ設定の変更が可能です。
+Startup settings cannot be changed while a game is running.;スタートアップ設定はゲーム中には変更できません。
+Changing startup settings will require a game restart.;スタートアップ設定の変更にはゲームの再起動が必要です。
+Reset setting to default: __1__;デフォルト値に戻します: __1__
+Setting has the default value.;デフォルト値に戻すは使用不可です
+Show minimap;ミニマップを表示
+Show turret radius when blueprinting;建設計画配置時にタレットの攻撃範囲を表示
+Show player names on minimap;ミニマップにプレイヤー名を表示
+Show inserter arrows when selected;カーソルを合わせたときにインサータの向きを表示
+Play sound for chat messages;チャットメッセージのサウンドを再生する
+More lenient matching for GUI searches.;GUI検索をより緩やかなマッチングにします。
+When selecting a buildable item from the quickbar or when using the pipette tool, if you have no items of that type, a ghost will be placed in the cursor instead.;設置可能なアイテムをクイックバーやピペットツールを使って手に持とうとしたがそのアイテムを所持していなかった場合、アイテムを持つ代わりにアイテムのゴーストを持ちます。
+Show items that weren't unlocked yet in the selection windows.;選択ウィンドウでまだアンロックされていないアイテムを表示します。
+Lock belt building to straight line;ベルトの設置方向を固定する
+1) Pressing __CONTROL__rotate__ while belt dragging will automatically turn the belt based on cursor position.\n2) Belt dragging over obstacles automatically builds underground belts.;1) ベルトのドラッグ中に __CONTROL__rotate__ を押すことで、カーソル位置に応じてベルトが自動的に回転します。\n2) 障害物を超えるようにベルトをドラッグすると自動的に地下搬送ベルトを設置します。
+Clicking a quickbar slot with an item in the cursor will set the quickbar filter instead of picking the item in the slot.;アイテムを持ったままクイックバースロットをクリックすると、スロットのアイテムを手に持つ代わりにクイックバーフィルターが変更されます。
+Selecting a quick panel slot with an item in the cursor will set the filter instead of picking the item in the slot.;アイテムを持ったままクイックパネルのスロットをクリックすると、スロットのアイテムを手に持つ代わりにフィルターが設定されます。
+Show inserter arrows in "Alt-mode";Altモードでインサータの向きを表示
+Show pump arrows in "Alt-mode";Altモードでポンプの向きを表示
+Show mining drill arrows in "Alt-mode";Altモードで掘削機の向きを表示
+Show combinator settings in "Alt-mode";Altモードで回路の設定を表示
+Show beacon modules in "Alt-mode";Altモードでビーコンのモジュールを表示
+When holding an item, show its label if it has one (for example blueprint names).;カーソルにアイテムを持っているときに、ラベルがある場合は、ラベルを表示します(例えば、建設計画の名前など)。
+Show rail block visualization;鉄道区間の可視化表示
+Show missing logistic network icon;物流ネットワークに不足物がある際にアイコンを表示
+When hovering over an entity, highlight neighboring entities that interact with it.;エンティティにカーソルを合わせるとき、それと相互作用する隣接エンティティを強調表示します。
+Show grid when game is paused;ゲーム中断時にグリッドを表示
+Crafting and logistics panels are laid out next to each other as opposed to being under alternative tabs.;製作・物流画面をタブではなくまとめて表示します。
+Enable recipe notifications;レシピ通知を有効にする
+Tool window next to quickbar;クイックバーの横にショートカットバーを表示
+The angle of the train stop labels on the map.;マップ上の列車の駅ラベルの角度
+UI scale;UIサイズ
+Custom;カスタム設定
+Language;言語
+How long it takes for tooltips to appear at the cursor.;ツールチップがカーソル位置に表示されるのにかかる時間。
+How long it takes for entity tooltips in the world to appear at the cursor.;カーソルを合わせてからエンティティツールチップが表示されるまでの時間。
+Show entity tooltips under the minimap, instead of at the cursor.;エンティティのツールチップをカーソルの近くではなくミニマップの下に表示する。
+How far away from the cursor tooltips appear.;カーソルからどれだけ離れてツールチップが表示されるか。
+Show mod owners in tooltips;所有Modをツールチップに表示
+Show a short textual description in some item, entity, or recipe tooltips. Recommended for new players or when adding new mods.;アイテム、エンティティ、またはレシピのツールチップに短い説明文を表示します。 新規プレイヤーや新しいMODを追加するときに推奨されます。
+Shows the total amount of time and items that cannot be crafted by hand needed by a recipe.;レシピに必要なアイテム・時間の合計を表示します。表示されるアイテムは手動製作できないものです。
+The number of seconds it takes for a chat or console message to start fading away.;チャットやコンソールメッセージが消えるまでの秒数
+Show mouse and keyboard control hints;マウスとキーボードコントロールのヒントを表示
+Show controller button hints;コントローラーボタンのヒントを表示
+Show tips and tricks notifications;ヒントとコツの通知を表示する
+Technology screen opens when research is completed;研究が完了したときにテクノロジーウィンドウを開く
+Always keep player's main inventory sorted;インベントリを常に自動整頓
+Tooltips;ツールチップ
+Visualization;視覚化
+Alt-mode;Altモード
+The number of quickbars always visible on the screen.;画面に常時表示されるクイックバーの数。
+The number of shortcut bar rows always visible on the screen.;画面に常時表示されるショートカットバーの行数。
+Number of wagons to be visualized when building near rails.;レールの近くに設置するときに表示する車両の数。
+Nintendo Switch;Nintendo Switch
+Show word suggestions when using the on-screen keyboard.\nEnabling this also allows entering Chinese and Korean text and Japanese kanji characters.\nMakes the on-screen keyboard smaller.;オンスクリーンキーボードの使用中に単語の候補を表示します。\nこの機能を有効にすると、中国語や韓国語のテキストや日本語の漢字も入力できます。\nオンスクリーンキーボードを小さくします。
+WARNING;警告
+Don't change things if you don't know what you're doing: most of these are not validated.;これらの変更が理解できない場合は、変更しないでください。これらのほとんどは検証されていません。
+Most settings require the game to be restarted in order to take effect.;ほとんどの設定は、有効にするためにゲームを再起動する必要があります。
+Currently logged in as __1__;現在 __1__ としてログイン
+Not currently logged in;現在ログインしていません
+Log out;ログアウト
+Set an email and password to use this account on other platforms or consoles.;他のプラットフォームやゲーム機でこのアカウントを使用するには、メールアドレスとパスワードを設定してください。
+Automatically enable new mods;自動で新しいMODを使用
+Check for updates when launching Factorio;起動時にアップデートの確認
+Enable experimental updates;実験的な更新を有効にする
+Proxy server;プロキシサーバー
+Proxy server username;プロキシサーバーユーザー名
+Proxy server password;プロキシサーバーパスワード
+The player name to use for LAN games when not logged in. When logged in, it is the same as the Factorio username and it cannot be changed.;ログインしていないときにLANゲームに使用するプレイヤー名。ログイン時にはFactorioのユーザー名と同じで、変更することはできません。
+Verbose logging;冗長なログ出力
+Logs file size statistics when saving the map (WARNING: makes saving slower).;マップを保存するときに、ファイルサイズの統計を記録します。(警告：セーブに時間がかかります)
+Use different mod settings per save;セーブファイルごとにModの設定を変更する
+Enable Razer Chroma support;Razer Chromaのサポートを有効化
+Enable Logitech LED support;Logicool LEDのサポートを有効化
+Enable SteelSeries GameSense support;SteelSeries GameSenseのサポートを有効化
+Upload anonymous logs when the game crashes.;ゲームがクラッシュした場合は、匿名ログをアップロードします。
+Enable blueprint library Cloud Sync;建設計画ライブラリのクラウド同期を有効にする
+Discard mouse events when using accessibility zoom;アクセシビリティズームを使用している際、マウスイベントを破棄します。
+Delete achievements;実績の削除
+This will permanently delete all achievements, including Steam achievements.;この操作を実行すると、Steamの実績を含む全ての実績が完全に削除されます。
+This will permanently delete all achievements.;すべての実績が完全に削除されます。
+Type "__1__" to confirm achievement deletion.;実績データを削除するには、"__1__"を入力してください。
+DELETE;DELETE
+Developer;開発者
+Start new game;新しいゲームを開始
+Select template for new scenario;新しいシナリオのためのテンプレートを選択
+Select scenario to edit;編集するシナリオを選択
+Main game:;メインゲーム:
+Game scenarios:;ゲームシナリオ:
+Delete scenario;シナリオを削除
+This map has no description;このマップには説明がありません。
+Level;レベル
+You need to first complete the previous level in the same difficulty or higher before this level is unlocked.;このレベルをアンロックする前に手前のレベルを同じ難易度でクリアする必要があります。
+You need to first complete the previous level before this level is unlocked.;このレベルを解放するためには前のレベルを完了する必要があります。
+Map exchange string can only be generated from freeplay or sandbox maps.;マップコードはフリープレイかサンドボックスのマップからのみ生成することができます。
+All required mods are enabled.;必要な全てのmodが有効化されました。
+Search filters;検索フィルタ
+No game selected;ゲームが選択されていません
+Has players;プレーヤーあり
+Has mods;Modの使用
+Steam friends in game;Steamのフレンド
+Is dedicated server;専用サーバー
+Join game;ゲームに参加
+Ping;Ping
+Calculating;計測中
+Loading...;ロード中...
+Favorites;お気に入り
+Downloading game information;ゲームの情報をダウンロード
+You are about to permanently delete __1__.;__1__を完全に削除しようとしています。
+Install;インストール
+Updates;更新
+__1__ __plural_for_parameter_1_{1=mod|rest=mods}__ changed.;__1__個のModが変更されました。
+__1__ __plural_for_parameter_1_{1=mod|rest=mods}__ installed.;__1__個のModがインストールされました。
+__1__ __plural_for_parameter_1_{1=mod|rest=mods}__ updated.;__1__個のModがアップデートされました。
+Toggle;有効／無効切替
+Not installed;インストールされていません
+Active version;アクティブなバージョン
+Author;作者
+Homepage;ホームページ
+Mod portal;Modポータル
+Contact;問い合わせ
+Dependencies;依存
+Incompatible with;互換性なし
+Optional dependencies;任意の依存関係
+Factorio version;Factorioバージョン
+(optional);(任意)
+Incompatible with current version of the game;現在のバージョンとは互換性がありません
+This mod is required, but is not active.;このMODが必要ですが有効になっていません。
+This mod is not required, and is not active.;このMODは必須ではなく、有効になっていません。
+This mod is incompatible with these mods.;このMODはこれらのMODと互換性がありません
+Delete save;セーブを削除
+Start replay;リプレイを開始
+Map version;マップのバージョン
+Scenario;シナリオ
+File size;ファイルサイズ
+Invalid or corrupted file.;ファイルが無効または破損しています。
+Map preview missing.;マップのプレビューがありません。
+Start watching the replay of __1__?;__1__のリプレイを観ますか？
+The selected save does not contain any replay information.;選択したセーブデータにリプレイ情報が含まれていません。
+__1__/..;__1__ /..
+Main inventory;プレイヤーインベントリ
+Equipment;装備
+Cursor stack;カーソルスタック
+Initial amount;初期埋蔵量
+Resource amount;資源量
+Minimum yield;最低産出量
+Are you sure you want to regenerate the map?;マップを再生成してもよろしいですか？
+New scenario;新しいシナリオ
+Edit scenario;シナリオを編集
+Convert save;セーブデータを変換
+Convert save to scenario;シナリオデータを変換します。
+Convert;変換する
+Import save;セーブファイルをインポート
+Decoratives;装飾
+Shape;形
+Intensity;強度
+Editors;エディター
+Inventory transfer limit;インベントリへの転送限界数
+A scenario with the name __1__ already exists. Do you want to overwrite it?;__1__ という名前のシナリオが既に存在しています。上書きしますか？
+Select surfaces to import;インポートするサーフェスを選択
+Importing save failed: __1__;セーブファイルのインポートに失敗しました: __1__
+The save file was converted to a scenario called __1__. You can find it in the user scenarios list.;セーブファイルは__1__のシナリオに変換されました。ユーザーシナリオのリストから確認できます。
+Always render as day;常に昼間で表示
+Draw cursor light;カーソルライトを表示
+Show entity status icons;エンティティステータスアイコンの表示
+Show entity tags;エンティティタグの表示
+Show entity health bars;対象の耐久力の表示
+Show entity extra settings GUI;エンティティの追加設定GUIを表示
+Show hidden entities;隠しエンティティの表示
+Instant blueprint building;建設計画の即時建設
+Instant deconstruction;即時解体
+Instant upgrading;即時更新
+Instant rail planner;インスタントレールプランナー
+Generate neighbor chunks;近傍チャンクを生成
+Fill electric buffers when building entities;施設設置時に受電ゲージを最大にする
+Placed corpses never expire;死体に期限を設定しない
+Show character tab in controller GUI;コントローラー画面でキャラクタータブの表示
+Show infinity filters in controller GUI;コントローラー画面でインフィニティフィルタの表示
+Rendering;レンダリング
+UI;UI
+Remove colliding decoratives;衝突している装飾を撤去
+Smart tile collision mode;スマートタイルコリジョンモード
+Only builds over tiles with the same collision mask. Effectively making "land build over land" and "water build over water".;同じ衝突マスクの場合のみタイルを上書き設置します。「陸の上に陸」「水の上に水」を効果的に作成できます。
+Smart entity collision mode;スマートエンティティコリジョンモード
+Skips building tiles if it would destroy an entity in the process.;タイル設置中にエンティティを破壊してしまう場合、設置をスキップします。
+Smart out-of-map collision mode;スマートマップ外コリジョンモード
+__TILE__out-of-map__ tiles can only be built over when building with __CONTROL__build-ghost__.;__TILE__out-of-map__タイルは__CONTROL__build-ghost__でのみ建設できます。
+Clone tiles;タイルを複製
+Clone entities;エンティティを複製
+Clone decoratives;装飾を複製
+Clear destination entities;複製先のエンティティをクリア
+Clear destination decoratives;複製先の装飾をクリア
+Snap to chunk;チャンクに対し自動調整
+Smart area drag mode;スマートエリアドラッグモード
+When clicking-and-dragging to clone an area, the source is cloned to the destination only if it doesn't overlap with the last cloned destination.;エリア複製作業中にクリック＆ドラッグを行うと、最後に複製した部分と重ならない場合に複製を行います。
+When selecting-and-dragging to clone an area, the source is cloned to the destination only if it doesn't overlap with the last cloned destination.;エリアの複製のため選択しドラッグすると、最後に複製した部分と重ならない場合に複製を行います。
+Manual collision mode;マニュアル衝突モード
+Only clones entities/decoratives to the destination if they would be manually buildable at the destination.;エンティティ/装飾を複製先に手動設置可能な場合のみ複製します。
+Apply clone brush;クローンブラシを適用
+Build as force;勢力
+**AUTO**;自動
+The force used when creating entities. If "**AUTO**", then the "normal" force is used: enemy for biters, your force for player buildings, and so on.;エンティティを生成する際に使われる勢力。「自動」の場合、標準の設定（バイターは敵、プレイヤーはあなたの勢力など）が使用されます。
+Current position;現在地
+Current area;現在地
+Always draw areas;常にエリアを表示
+Always draw positions;常に座標を表示
+Current speed;現在の速度
+Speed up;スピードアップ
+Speed down;スピードダウン
+Paused;一時停止中
+Play for limited time;一時プレイ
+Tick once (__CONTROL__editor-tick-once__);1Tick進める(__CONTROL__editor-tick-once__)
+Tick sixty;60Tick進める
+Tick custom;指定Tick進める
+Day length;一日の長さ
+Ticks per day;1日のTick
+Apply;適用
+Freeze daytime;時間帯を固定
+Unfreeze daytime;時間帯の固定を解除
+Daytime:;時間帯:
+Edit force;勢力を編集
+Destination force;変更先勢力
+The force to change entities to. If "**AUTO**", then your current force is used.;エンティティの勢力をこれに変更します。「自動」の場合はあなたの現在の勢力が適用されます。
+Switch to force;勢力に切り替え
+Create force;勢力を作成
+Delete force;勢力を削除
+Edit friends;友軍の設定
+Edit force "__1__" friends;勢力"__1__"の友軍設定を編集
+Edit cease fire;停戦の設定
+Edit force "__1__" cease fire;勢力"__1__"の停戦設定を編集
+Enable friendly fire;フレンドリーファイアを有効にする
+Share chart;チャートを共有
+Current force;現在の勢力
+A force name is required to create a force.;勢力を作成するには名前が必要です。
+A force with the given name already exists.;同じ名前の勢力がすでに存在しています。
+The player, enemy, and neutral forces cannot be deleted.;プレイヤー、エンティティ、中立の勢力は削除できません。
+The neutral force cannot be changed.;中立勢力は変更できません。
+Edit other properties;その他のプロパティを編集
+Simple modifiers;基本値の調整
+Boolean modifiers;真偽値の調整
+Category modifiers;カテゴリの調整
+Ammo damage modifiers;弾薬ダメージの変更
+Gun speed modifiers;連射速度の変更
+Turret attack modifiers;タレット攻撃の変更
+Disabled handcrafting recipes;手動製作レシピを無効化
+Edit __1__;__1__を編集
+Current surface;現在のサーフェス
+Select surface;サーフェスを選択
+New surface;新しいサーフェス
+Delete surface;サーフェスを削除
+Generate new chunks with lab tiles;ラボのタイルで新しいチャンクを生成
+Remove all entities;全てのエンティティを削除
+Fill with lab tiles;ラボのタイルを敷く
+Regenerate all decoratives;全ての装飾を再生成
+Remove empty chunks;空のチャンクを削除
+A surface name is required to create a surface.;サーフェスを作成するには名前が必要です。
+A surface with the given name already exists.;同じ名前のサーフェスがすでに存在しています。
+Invalid surface width: permitted values are 0 to __1__.;不正なサーフェス幅：許可された値は0から__1__です。
+Invalid surface height: permitted values are 0 to __1__.;不正なサーフェス高さ：許可された値は0から__1__です。
+Edit map gen settings;マップ生成設定を編集
+__1__ - map gen settings;__1__ - マップ生成設定
+Import save is only available in single player.;セーブファイルのインポートはシングルプレイでのみ可能です。
+The default surface cannot be deleted.;デフォルトのサーフェスは削除できません。
+Importing other save files will disable the replay. Are you sure you want to do this?;他のセーブファイルのインポートを行うとリプレイが無効になります。実行しますか？
+Current snippet;現在のスニペット
+Lua code;Luaコード
+New snippet;スニペットを作成
+Snippet with the name "__1__" already exists.;"__1__"という名前のスニペットがすでに存在します。
+The currently opened snippet has a duplicate name.;現在開いているスニペットと名称が重複しています。
+Forces;勢力
+Surfaces;サーフェス
+Clone;複製
+Areas and positions;エリアと位置
+Time;時間
+Lua snippets;Luaスニペット
+__1__ to specify spawn location.;__1__でスポーン地点を指定します。
+__1__ to build cliffs.;__1__で崖を作成します。
+__1__ to build tiles out of map.;__1__でマップ外にタイルを舗装します。
+__1__ to remove cliffs.;__1__で崖を削除します。
+__1__ and drag to build cliff segments.;__1__をドラッグして連続した崖を作成します。
+__1__ and drag to remove cliff segments.;__1__をドラッグして連続した崖を削除します。
+And all the other relevant shortcuts as when playing the game.;その他、ゲーム中と同じショートカットが利用可能です。
+__1__ and drag to change the force of entities.;__1__をドラッグしてエンティティの勢力を変更します。
+__1__ and drag to build tiles.;__1__をドラッグして舗装します。
+__1__ to fill selected area.;__1__で選択したエリアを塗りつぶします。
+__1__ to change tile variations in the selected area.;__1__で選択したエリアのタイルのバリエーションを変更します。
+__1__ to create a new point.;__1__で新しいポイントを作成します。
+__1__ to remove a point.;__1__でポイントを削除します。
+__1__ to select a point.;__1__でポイントを選択します。
+__1__ and drag to move a point.;__1__をドラッグしてポイントを移動します。
+__1__ and drag to create a new area.;__1__をドラッグして新しいエリアを作成します。
+__1__ to remove an area.;__1__でエリアを削除します。
+__1__ to select an area.;__1__でエリアを選択します。
+__1__ and drag to move an area.;__1__をドラッグしてエリアを移動します。
+__1__ and drag to run the selected snippet on the area.;__1__をドラッグして、選択したスニペットをエリア上で実行します。
+__1__ and drag to select area to clone.;__1__をドラッグして、複製するエリアを選択します。
+__1__ to build the selected area.;__1__で選択したエリアを作成します。
+Press __1__ to select entity for cloning.;__1__を押して複製するエンティティを選択します。
+__1__ to clone the selected entity.;__1__で選択したエンティティを複製します。
+__1__ to set the clone source point.;__1__でクローンの原点を設定します。
+__1__ to set the clone destination point.;__1__でクローンの目標点を設定します。
+__1__ and drag to add to the clone area.;__1__をドラッグして、クローンエリアを追加します。
+__1__ and drag to remove from the clone area.;__1__をドラッグして、クローンエリアから削除します。
+When no editor resource is selected __1__ a resource in the world to edit.;配置する物を選択していない場合には地面の資源を編集します
+The initial resource amount is based off the tool intensity value.;初期の資源量はエディタツールの強度に基づいています
+Building or removing the same resource increases or decreases the resource amount based off the tool intensity value.;同じ資源を配置・削除する時はエディタツールの強度に基づいて資源量が増減します
+__1__ to edit.;__1__で編集します。
+__1__ to mine.;__1__で解体します。
+Source area and destination area are not the same size.;複製元エリアと複製先エリアが同じサイズではありません。
+Source area and destination area collide.;複製元と複製先が衝突しています。
+Source area tiles and destination area tiles collide.;複製元のタイルと複製先のタイルが衝突しています。
+Source entities overlap with destination entities.;複製元エンティティが複製先エンティティと重なります。
+Source area and destination area must not be rotated.;複製元エリアと複製先エリアは回転させられません。
+Brush;ブラシ
+Spray;スプレー
+Variations;バリエーション
+Spawn location;スポーン地点
+Square;四角
+Circle;丸
+Paint bucket;塗りつぶし
+Area;エリア
+Point;ポイント
+Line;直線
+Change force;勢力を変更
+Run Lua Snippets;Luaスニペットの実行
+Resume editing;編集を再開
+Regenerate map;再生成
+Save and play;保存してプレイ
+Direct connection;直接接続
+IP address and port;IPアドレスとポート
+Connect;接続
+Please insert password for game __1__;ゲーム「__1__」のパスワードを入力してください。
+The server scenario;サーバーシナリオ
+__1__ wants to connect you to the following server: __2__;__1__が接続を要求しています サーバー: __2__
+Your username is banned in this game. Reason: __1__.;あなたのユーザー名はこのゲームで禁止されています。理由: __1__。
+You are banned in this game by authserver recommendation. To appeal contact support@factorio.com.;あなたは認証サーバーの勧告によりこのゲームからBANされています。\n抗議したい場合はsupport@factorio.comまでご連絡ください。
+The player limit was reached in this game.;このゲームでプレイヤー数の上限に達しました。
+User with your name is already in the game.;同名のユーザーがすでに参加しています。
+Your username is not whitelisted on this server.;あなたのユーザー名はこのサーバのホワイトリストに登録されていません。
+IP address and port already used for a different player.;このIPアドレスとポートは別のプレイヤーが既に使用しています。
+Internal player authentication error.;プレイヤー認証内部エラーです。
+Core mod CRC check failed! Core game data does not match expected content.;CORE Mod CRCチェックに失敗しました。 Coreゲームデータが要求と一致していません。
+Prototype CRC check failed! A mod generated prototypes in a nondeterministic way.;プロトタイプのCRCチェックに失敗しました! MODはプロトタイプを非決定的に生成しました。
+Version mismatch detected!;バージョンの不一致が検出されました!
+You are running version __1__.;実行中のバージョン __1__.
+Server is running version __1__.;サーバーは __1__ を実行しています.
+Mods mismatch detected!;MODの不一致が検出されました!
+__1__: you have version __2__, server has version __3__.;__1__: あなたのModバージョンは __2__ですが, サーバーのModバージョンは __3__です.
+__1__: Mod contents are different even though the versions are the same. The most common cause of this is improper mod setting usage (conditionally requiring files based on mod settings). This can also be caused by modifying mod files on the client or server but not the other.;__1__: Modのバージョンは同じですが内容が異なります。よくある原因は、不適切なMod設定の使用です(Modの設定に基づく要求するファイルの条件)。サーバー・クライアントのいずれか一方のみでModファイルを変更した場合にも発生します。
+__1__ is only on the server.;__1__ のModがサーバーにしかありません。
+__1__ is not on the server.;__1__ のModはサーバーにありません。
+Cannot join. The following mod script files are not identical between you and the server:;参加できません。以下のmodのスクリプトファイルがサーバーと同一ではありません。
+Cannot join. The following mod event handlers are not identical between you and the server. This indicates that the following mods are not multiplayer (save/load) safe. (See the log file for more details):;参加できません。以下のMODイベントハンドラーがあなたとサーバーとの間で異なっています。これは、以下のMODがマルチプレイのセーブ・ロードにおいて安全でないことを示しています。（詳細についてはログファイルを参照してください）:
+Cannot join. The following mod command handlers are not identical between you and the server. This indicates that the following mods are not multiplayer (save/load) safe. (See the log file for more details):;参加できません。以下のMODコマンドハンドラーがあなたとサーバーとの間で異なっています。これは、以下のMODがマルチプレイ(セーブ・ロード) おいて安全でないことを示しています。(詳細についてはログファイルを参照してください):
+Connecting to the game...;サーバーに接続中...
+Failed to connect. Check log file for details.;接続に失敗しました。ログファイルを確認してください。
+Redownloading map (__1__);マップを再ダウンロードしています (__1__)
+Downloading map (__1__);マップをダウンロードしています (__1__)
+Could not establish network communication with server.;サーバーとのネットワーク通信を確立できませんでした。
+__1__ has paused the game.;__1__ がゲームを一時停止しました。
+You died. Bad luck. Respawn in __1__ __plural_for_parameter_1_{1=second|rest=seconds}__.;死亡しました。__1__秒後にリスポーンします。
+__1__ joined the game.;__1__ がゲームに参加しました。
+__1__ left the game.;__1__ がゲームから抜けました。
+__1__ was dropped from the game.;__1__ は、ゲームから抜けました。
+__1__ was disconnected as they are reconnecting from a different source.;__1__ は別のソースから再接続しようとしたため、切断されました。
+__1__ was disconnected as they sent malformed data.;__1__は誤った形式のデータを送信したため、切断されました。
+Your client sent wrong data to the server and was disconnected.;あなたのクライアントはサーバーに誤ったデータを送信し、切断されました。
+__1__ was disconnected as they desynced.;__1__は非同期のため切断されました。
+__1__'s computer or network could not keep up with the server, so they have been disconnected.;__1__のコンピューターまたは回線がサーバーと同期し続けられなかったため、切断されました。
+__1__ was disconnected for being AFK.;__1__ は長時間操作が行われなかったため切断されました。
+__1__ is switching servers.;__1__はサーバーを切り替えています。
+__1__ desynced.;__1__が非同期。
+Desynced.;非同期。
+__1__ was killed at __2__;__1__は__2__で殺されました。
+__1__ was killed by __2__ at __3__;__1__は__2__によって__3__で殺されました。
+__1__ respawned.;__1__ が復活しました。
+__1__ paused the game.;__1__ がゲームを一時停止しました。
+__1__ resumed the game.;__1__ がゲームを再開しました。
+The local port __1__ is already in use.\nThis could be caused by another instance of Factorio, or by another program using this port.;ローカルポート __1__ は既に使用されています。\n別の Factorio が起動しているか、その他のプログラムがポートを使用している可能性があります。
+Loading scenario __1__;シナリオ __1__ をロードしています。
+__1__ is downloading the map;__1__ がマップをダウンロードしています
+__1__ is loading the map;__1__ がマップをロードしています
+__1__ is catching up;__1__ が同期中です
+__1__ is being dropped from the game;__1__ がゲームから抜けています
+Saving the map for __1__;マップを__1__として保存しています
+Server (__1__) is saving the map for __2__.;サーバー (__1__) が__2__のためにマップを保存中です。
+Server (__1__) is saving the map.;サーバー (__1__) がマップを保存しています。
+Waiting for the server to save the map.;サーバーがマップを保存するのを待機しています。
+Waiting for the server to start saving: __1__;サーバーが保存を開始するのを待っています: __1__
+Waiting for upload slot. __1__ __plural_for_parameter_1_{1=player|rest=players}__ waiting.;アップロードスロット待機中です。__1__人のプレーヤーが待機しています。
+__1__ is saving map.;__1__ がマップを保存しています。
+Creating desync report. Please wait.;非同期レポートを作成中です。しばらくお待ちください。
+Downloading multiplayer data failed. Please try again.;マルチプレイデータをダウンロードできませんでした。もう一度やり直してください。
+Downloading map from other peers failed. Please try again.;他のピアからマップをダウンロードできませんでした。もう一度やり直してください。
+Server is not responding;サーバーが応答しません。
+Unknown username;不明なユーザー名
+You have joined a paused game. You will be able to see the map once the game is unpaused.;一時停止中のゲームに参加しています。ゲームが再開されると、マップを見ることができます。
+You have been dropped from the game.;あなたはゲームから退出しました。
+You have been disconnected as your computer or network wasn't fast enough to keep up with the server.;あなたのコンピューターまたは回線が、サーバーと接続を続けられるほど高速ではなかったため、切断されました。
+You have been disconnected as you have been AFK.;長時間操作が行われなかったため切断されました。
+You have been kicked from the server.;サーバーから接続を拒否されました。
+You have been banned from the server.;あなたはこのサーバーにはアクセスできません。
+__1__ is not a valid address (__2__).;__1__ は有効なアドレスではありません (__2__)。
+__1__ was not found.;__1__ が見つかりませんでした。
+Cannot load downloaded map: __1__;ダウンロードしたマップを読み込むことができません: __1__
+Matching server connection failed.;マッチングサーバーへの接続に失敗しました。
+Matching server connection resumed.;マッチングサーバーへの接続が復活しました。
+Error when sending heartbeat: __1__;ハートビート送信時のエラー: __1__
+Error when creating server game: __1__;サーバーゲーム作成時のエラー: __1__
+Failed to determine external IP address. Other players might not be able to connect.;グローバルIPアドレスを取得できませんでした。他のプレイヤーは接続できないかもしれません。
+User verification must be enabled for public games.;公開サーバーはユーザー認証を有効にしなければなりません。
+Catching up.;最新の情報に更新しています。
+Aligning desynced map to server.;マップをサーバーに同期しています。
+Saving local variant of map.;マップのコピーをローカルに保存しています。
+Communication with server failed;サーバーとの通信に失敗しました。
+Server quit the game;サーバーがゲームを終了しました。
+Multiplayer is currently disabled because autoplace specifications were changed during runtime.;ランタイム中にオートプレイスの仕様が変更されたので、マルチプレイは現在無効になっています。
+You were disconnected from the network. The multiplayer game can not continue.;ネットワークから切断されました。マルチプレイヤーゲームを続行できません。
+LAN mode authorization failed;LANモードの認証に失敗しました。
+Network authorization failed;ネットワークの認証に失敗しました。
+Online play requires Nintendo Switch Online membership;オンラインプレイには Nintendo Switch Onlineへの加入が必要です
+Mark as read;既読にする
+Play tutorial;チュートリアルをプレイ
+Replay tutorial;チュートリアルをリプレイ
+Suggested tip.;ヒントの表示
+Tutorials are not playable in multiplayer.;チュートリアルはマルチプレイヤーでは再生できません。
+Take items;アイテムを取得
+Copy settings;設定をコピー
+Paste settings;設定を貼り付け
+Enter vehicle;車両に搭乗
+Exit vehicle;車両から降車
+Force build;強制的にビルド
+Confirm selection;選択を確認
+Cancel selection;選択の取消し
+Next item;次のアイテム
+Previous item;前のアイテム
+Build using rail planner;レールプランナーを使用してビルド
+Build using rail planner avoiding obstacles;障害物を避けてレールプランナーを使用してビルド
+Transfer everything;すべてを転送
+Place one;1 つ置く
+Transfer all;すべてを転送
+Transfer stack;スタックを転送
+Epilogue;エンディング
+Change recipe;レシピを変更する
+Select a recipe for assembling;組立機のレシピを選択
+Input;入力
+Condition;条件
+1;1
+Output the specified output signal with a value of 1.;指定された出力信号を数量1で出力します。
+Input count;入力数
+Copy the count of the specified output signal from the input signals.;出力信号数を入力信号数と同じにします。
+Rocket progress;ロケットの進捗
+Rocket inventory;ロケットインベントリ
+Auto-launch with cargo.;アイテムを積んで自動打ち上げ
+Rocket result inventory;ロケット打ち上げ成果
+Circuit network;回路ネットワーク
+Logistic network;物流ネットワーク
+Circuit connection;回路ネットワークへの接続
+Connected to network;ネットワークに接続
+[color=red]__1__[/color];[color=red]__1__[/color]
+[color=green]__1__[/color];[color=green]__1__[/color]
+Mode of operation;動作モード
+Logistic connection;物流ネットワークへの接続
+No network in range;ネットワークが範囲内にありません
+Wall with gate controller;ゲート制御器付き防壁
+Enable/disable;有効/無効
+Turn this entity on only when the condition is true.;指定された条件を満たすときのみ、このエンティティを有効にします。
+Turn this entity on only when the condition is true.\nTrains will skip disabled stops, allowing you to control train routes.;指定された条件を満たすときのみ、この駅を有効にします。\n列車は利用できない駅を通過するようになり、ルートの制御が可能になります。
+Set filters;フィルターを設定
+Sets the inserter filters based on the signals from the circuit network.;回路ネットワークのシグナルに基づいてインサータのフィルターを設定します。
+Read hand contents;掴んでいるアイテムを取得する
+Reads the contents of the inserter hand and sends them to the circuit network.;インサータが掴んでいるアイテムを読み取り、それらの信号を回路ネットワークに送信します。
+Read contents;読み込む
+Reads the contents of the container and sends them to the circuit network.;このコンテナの内容物を取得し、回路ネットワークに送信します。
+Set requests from circuit network;回路ネットワークからの要求を設定
+Sets the logistic requests of the chest based on the signals from the circuit network.;回路ネットワークのシグナルに基づいて物流ネットワークにアイテムを要求します。
+Use colors;色の使用
+Sets the color of the lamp based on color signals.\nIf a color signal has a value greater than 0, the lamp will show that color.\nIf multiple colors are present, only one of them will be used.;色の信号に基づいてランプの色を設定します。\n色の信号が0より大きい値を持っている場合、ランプはその色を表示します。\n複数の色が存在する場合、それらの一方のみが使用されます。
+Read logistic network contents;物流ネットワークの内容を取得
+Reads the available items from the logistic network of this roboport and sends them to the circuit network.;このステーションの物流ネットワークにあるアイテムを読み取り、回路ネットワークに送信します。
+Read robot statistics;ロボットの統計を読み込む
+Reads the number of robots in the logistic network of this roboport and sends it to the circuit network.;このロボットステーションが属する物流ネットワークにあるロボットの台数を読みとり、回路ネットワークに送信します。
+Send to train;列車に送る
+Sends the contents of the circuit network to the train, so they can be used for wait conditions.;列車に回路ネットワークの内容を送信し、発車条件に使用できるようにします。
+Read train contents;列車の内容を取得する
+Reads the contents of the train that is currently stopped at the train stop and sends them to the circuit network.;駅に現在停車中の列車のアイテム数を取得し、回路ネットワークに送信します。
+Read stopped train;停車中の列車を取得する
+When a train is stopped at the train stop, a signal is sent with a unique number for that train.;列車が駅に停車しているときに、その列車に固有の番号がシグナルとして送られます。
+Read belt contents;ベルト上のアイテムを取得する
+Reads the contents of the belt and sends them to the circuit network. Belts will not send correct pulse signals when items are inserted or taken from the middle of the belt by external entities.;ベルトの内容を読み取り、回路ネットワークに送ります。 アイテムが外部エンティティによってベルト上に設置される、または取り出されるとき、ベルトは正しいパルス信号を送信しません。
+Read charge level;充電量を取得する
+Reads the charge level of the accumulator as a percentage between 0 and 100, and sends it to the circuit network.;蓄電池の充電量を0～100のパーセンテージで読み取り、回路ネットワークに送信します。
+Close signal;信号を閉じる
+When the specified condition is true, it tries to make this signal red and stop any trains from passing.\nIf a train cannot stop in time (signal is yellow) or is already passing through (signal is red), the signal will not stop that train.\nNote: The train will very often stop at the signal and not try to find an alternative path even if one is available.;指定された条件を満たすとき、この信号を赤にしてすべての列車を停止させます。\n停止が間に合わない (信号が黄)、もしくはすでに通過している (信号が赤) 場合は列車を止めません。\n注：列車は非常に頻繁に信号で止まるようになり、代替経路が存在する場合でも経路の検索を行わなくなります。
+Read signal;信号を取得する
+Reads the color of the rail signal and sends the circuit network signal specified below.\nIf the rail signal is red because it was closed from the circuit network, nothing will be sent.;信号の状態を取得し、以下で指定するシグナルを回路ネットワークへ送ります。\n回路ネットワークの条件設定によって信号が赤になっている場合は何も出力しません。
+Reads the color of the rail chain signal and sends the circuit network signal specified below.;連動式列車用信号の状態を取得し、以下で指定するシグナルを回路ネットワークへ送ります。
+Open gate;ゲートを開く
+The gate will remain open so long as the circuit condition is true.;回路条件が真であるあいだ、ゲートが開きます。
+Read sensor;センサー読み取り
+Sends a signal to the circuit network when a character is coming towards the gate, and it should open.;プレイヤーが接近しゲートが開こうとするときに回路ネットワークにシグナルを送信します。
+Read resources;資源を取得
+Reads the amount of resources expected from this miner/pumpjack and sends it to the circuit network.\nFor infinite resources, it reads the unmodified mining rate.\nThe value is updated every 5 seconds.;この掘削機・油井から期待される資源量を取得し、回路ネットワークへ送信します。\n枯渇しない資源の場合は、変更前の採掘レートを読み取ります。\n値は5秒毎に更新されます。
+Don't change this entity's behavior based on the circuit network.;回路網の状態にかかわらず、このエンティティの動作を変更しません。
+Set stack size;スタックサイズの設定
+Set the maximum stack size of this inserter based on the count of the selected circuit network signal.;選択した回路ネットワークのシグナルに基づいてインサータの最大スタックサイズを設定します。
+Set train limit;列車の上限を設定
+Sets the maximum number of trains going to this train stop. Includes the stopped train.;この駅に停車する予定の列車最大数を設定します。停車中の列車を含みます。
+Read train count;列車数の読み取り
+Reads the number of trains going to this particular train stop. Includes the stopped train.;この駅に停車する予定の列車最大数を読み取ります。停車中の列車を含みます。
+Enabled condition;作動条件
+Hand read mode;読み取りモード
+Content read mode;読み取りモード
+Resource read mode;読み取りモード
+Pulse;パルス
+The signal is sent for only 1 tick when the item is picked up.;アイテムを掴んだとき、1ティックだけシグナルを送信。
+The signal is sent for only 1 tick when the item enters the belt.;アイテムが乗ったとき、1ティックだけシグナルを送信。
+Hold;ホールド
+The signal is sent continuously as long as the inserter is holding the item.;アイテムを掴んでいるあいだ、連続的にシグナルを送信。
+The signal is sent continuously as long as the items are on the belt.;アイテムが乗っているあいだ、連続的にシグナルを送信。
+This mining drill;この掘削機
+Read the resources expected from this mining drill.;この掘削機から期待される資源量を取得
+Entire resource patch;鉱床全体
+Read the resources expected from the entire resource patch around this mining drill.;この掘削機の周辺の鉱石区画全体から期待される資源量を取得します。
+Output signal;出力信号
+Closed condition;停止条件
+R;赤
+The circuit network signal to send when the rail signal is red (a train is passing through the rail signal).;列車用信号が赤（列車が通過中） のとき回路ネットワークに送信するシグナル。
+The circuit network signal to send when the chain signal is red (a train is occupying all routes through the chain signal).;連動式列車用信号が赤（全てのルートが占有中） のとき回路ネットワークに送信するシグナル。
+Yellow;黄
+The circuit network signal to send when the rail signal is yellow (a train is planning to pass through the rail signal).;列車用信号が黄色（列車が通過予定） のとき回路ネットワークに送信するシグナル。
+The circuit network signal to send when the chain signal is yellow (a train is planning to pass through the chain signal).;連動式列車用信号が黄色（列車が通過予定） のとき回路ネットワークに送信するシグナル。
+The circuit network signal to send when the rail signal is green (the block is free).;列車用信号が緑（区画内に列車なし） のとき回路ネットワークに送信するシグナル。
+The circuit network signal to send when the chain signal is green (the block is free).;連動式列車用信号が緑（区画内に列車なし） のとき回路ネットワークに送信するシグナル。
+B;青
+The circuit network signal to send when the chain signal is blue (1 or more paths are blocked but 1 or more paths are still available).;連動式列車用信号が青（ルートの1つ以上が通行可・1つ以上が通行不可） のとき回路ネットワークに送信するシグナル。
+Available logistic bots;利用可能物流ロボット数
+Total logistic bots;すべての物流ロボット
+Available construction bots;利用可能建設ロボット数
+Total construction bots;すべての建設ロボット
+Open condition;通行条件
+Control signal;制御シグナル
+Input signal;入力信号
+Unique identifier of stopped train;停車中の列車の固有識別子
+Train count;列車数
+Number of trains going to this train stop. Includes the stopped train.;この駅に停車する予定の列車数。停車中の列車を含む。
+Maximum number of trains going to this train stop. Includes the stopped train.;この駅に停車する予定の列車の最大数。停車中の列車を含む。
+State;状態
+Volume;音量
+Global playback;全体再生
+Sounds created by the speaker will be heard everywhere on the map.;スピーカーが鳴らしたサウンドがマップ全体で聞こえるようになります。
+Show alert;アラートの表示
+Show an alert with a message in the GUI when a sound is played.;サウンドの再生時、メッセージとともにアラートを表示します。
+Signal value is pitch;信号による音階
+The value of the input circuit network signal determines the musical note that will be played.;回路ネットワークの信号の値で決定される音符が演奏されます
+Circuit connection settings;回路接続設定
+Alert settings;アラート設定
+Allow polyphony;複数音再生可能
+Allow up to __1__ sounds to be played at the same time. Disable to only allow one sound at the same time (useful for factory alerts).;同時に__1__音まで再生できるようにします。1音のみ許可するには無効にします(工場のアラートに有用)
+Show icon on map;マップにアイコンを表示
+Trunk;トランク
+Weapons control;車載装備の操作
+Driver;運転手
+Passenger;乗客
+Auto targeting;自動攻撃
+Without gunner;ガンナー不在
+Shoot nearby enemies automatically when the vehicle is empty;誰も搭乗していない場合、近くの敵を自動的に攻撃します。
+With gunner;ガンナー搭乗
+Shoot nearby enemies automatically when a gunner (driver or passenger) is in the vehicle;ガンナー(運転手もしくは乗客)が搭乗している場合、近くの敵を自動的に攻撃します。
+Filter;フィルター
+Override stack size;スタックサイズを上書き
+Input priority;入力優先順位
+Output priority;出力優先順位
+Show GUI;GUIを表示
+Show message dialogs;メッセージログを表示
+Automatic updates;自動更新
+Mod;MOD
+Update now;今すぐアップデート
+Disable updates;アップデートを無効にする
+Username;ユーザー名
+Enter your username and password to download updates.;アップデートをするためには、あなたのユーザーネームとパスワードを入力して下さい。
+The following updates are available:;次の更新プログラムが使用可能です。
+Updating may take up to several minutes. Please be patient.;更新には数分かかる事があります。しばらくお待ちください。
+Update failed: __1__;アップデート失敗: __1__
+Invalid username or password!;ユーザーネームまたはパスワードが無効です。
+Applying;適用
+Downloading;ダウンロード中
+Checking;チェック中
+Restarting Factorio;Factorioを再起動します。
+Updated to version __1__;バージョン__1__へアップデートしました
+Check for updates;アップデートを確認
+No new updates available;新しいアップデートはありません
+There is a newer version of Factorio, but it can no longer be obtained using automatic updates. Please download the latest version manually from __1__.;新しいバージョンのFactorioがありますが、自動更新が出来ません。__1__ から最新バージョンを手動でダウンロードして下さい。
+Automatic Steam update notice;自動Steamアップデートのお知らせ
+This version of Factorio is from a beta branch that won't be updated automatically. To make sure you get the latest updates, select "latest experimental" beta in the properties for Factorio in Steam, or opt out of betas to get the latest stable release.;このFactorioベータブランチは自動更新されません。常に最新のバージョンにするためには、SteamクライアントのFactorioのプロパティから"experimental"を選択するか、"なし"を選んで安定版を待ってください。
+Couldn't initialize Steam API. Steam-related features are disabled. Restarting Steam usually fixes this issue.;Steam APIを初期化できませんでした。Steam関連の機能は無効になります。通常はSteamを再起動することで問題を解決できます。
+Steam error;Steamエラー
+Checking for updates failed: __1__;アップデートチェック失敗: __1__
+Service unavailable;サービスを利用できません
+Production;生産量
+Accumulator charge;蓄電率
+__1__ / __2__;__1__ / __2__
+Amount of power currently being produced out of power currently required.;現在必要な電力のうち現在発電中の電力。
+Amount of power currently being produced out of maximum possible power production.;最大可能発電量のうち現在発電中の電力。
+Amount of stored energy in all accumulators in this network.;この電力ネットワーク中の全ての蓄電池が蓄えている電力量。
+Built;設置
+Deconstructed;撤去
+Upgraded;更新
+Losses;喪失数
+Removed entities;削除されたエンティティ
+Removed equipments;削除された装備
+Removed items;削除されたアイテム
+Removed recipes;削除されたレシピ
+Removed tiles;削除されたタイル
+Removed technologies;削除されたテクノロジー
+Removed fluids;削除された流体
+Removed decoratives;削除された装飾
+Removed virtual signals;削除された仮想シグナル
+Removed custom inputs;取り除かれたカスタムインプット
+Removed equipment grids;取り除かれた装備グリッド
+Removed particles;取り除かれたパーティクル
+Removed achievements;取り除かれた実績
+Removed mod settings;取り除かれたMOD設定
+Removed smokes;取り除かれた煙
+Removed shortcuts;取り除かれたショートカット
+Removed blueprint __1__: map version __2__ too old;建設計画 __1__は削除されました : マップのバージョン __2__ が古すぎます
+Changed shortcuts;変更されたショートカット
+Changed smokes;変更された煙
+Changed achievements;変更された実績
+Changed mod settings;変更されたMOD設定
+Changed equipment grids;変更された装備グリッド
+Changed particles;変更されたパーティクル
+Changed custom inputs;変更されたカスタムインプット
+Changed entities;変更されたエンティティ
+Changed equipments;変更された装備
+Changed items;変更されたアイテム
+Changed recipes;変更されたレシピ
+Changed tiles;変更されたタイル
+Changed technologies;変更されたテクノロジー
+Changed fluids;変更された流体
+Changed decoratives;変更された装飾
+Changed virtual signals;変更された仮想シグナル
+This fluid is not available due to mod removal, it will be restored if the mod is re-enabled.;未知の流体
+This signal is not available due to mod removal, it will be restored if the mod is re-enabled.;不明なシグナル
+This entity is not available due to mod removal, it will be restored if the mod is re-enabled.;不明なエンティティ
+This tile is not available due to mod removal, it will be restored if the mod is re-enabled.;不明なタイル
+This item is not available due to mod removal, it will be restored if the mod is re-enabled.;不明なアイテム
+The game you are connecting to requires you to log in.;接続中のゲームはあなたのログインを要求しています。
+The game you are connecting to couldn't authenticate you. Please log in again or try later.;接続しようとしているゲームはあなたを認証できませんでした。ログインし直すか後で再試行してください。
+There was a mismatch on the matching server in verifying your username and token. Please log in again.;ユーザー名とトークンをマッチングサーバで検証できませんでした。もう一度ログインしてください。
+Browsing public multiplayer games requires you to log in.;公開マルチプレイサーバーを見るためにはログインが必要です。
+Please choose your LAN player name.;LANプレイヤー名を選択してください。
+Posting a game to the matching server requires you to log in.;ゲームをマッチングサーバーに登録するためにはログインが必要です。
+Connecting to the matching server requires you to log in.;マッチングサーバーを利用するためにはログインが必要です。
+Please log in to your existing Factorio account.;既存のFactorioアカウントでログインしてください。
+Using the mod portal requires you to log in.;MODポータルを利用するためにはログインが必要です。
+There was a mismatch on the mod portal in verifying your username and token. Please log in again.;MODポータルにてユーザー名のトークン検証に不一致がありました。再度ログインしてください。
+Downloading mods requires you to log in.;Modのダウンロードにはログインが必要です。
+You are not logged into Steam. Please log into Steam in order use online features, or use a Factorio.com account.;あなたはSteamにログインしていません。オンライン機能を使うためにはSteamにログインするか、Factorio.comアカウントを使用してください。
+You are not logged into Steam. Using Factorio.com credentials only.;あなたはSteamにログインしていません。Factorio.comの登録情報のみ使用します。
+Steam authentication failed. Please make sure you're logged in to Steam in online mode.;Steam認証に失敗しました。Steamにオンラインモードでログインしていることを確認してください。
+Username cannot be empty.;ユーザー名は空にできません。
+Password cannot be empty.;パスワードは空白にできません。
+Email cannot be empty.;メールアドレス欄を空白にしておくことはできません
+You must accept the Terms of Service.;利用規約に同意する必要があります。
+Logging in;ログイン中
+Logging in with Steam;Steamでログイン中
+You are now authenticated as __1__ through Steam.;あなたは現在Steamを通して__1__として認証されています。
+You are now authenticated as __1__.;あなたは現在__1__として認証されています。
+Create account;アカウントを作成
+Forgot password;パスワードを忘れた
+Authentication Code;認証コード
+Please enter the e-mail authentication code we sent to your inbox.;メールで送信された認証コードを入力してください。
+E-mail authentication required. Please enter the code we sent to your inbox.;メール認証が必要です。メールで送信された認証コードを入力してください。
+Preparing online communication;オンライン通信を準備中
+Checking membership;加入状態を確認中
+Create;作成
+I accept the;同意する
+Terms of Service;利用規約
+I already have a Factorio.com account;私は既にFactorio.comのアカウントを所持しています
+If you have a Factorio account, you can log in using your password instead. This will also link your Factorio account to this Steam account.;Factorioアカウントを所持している場合、代わりにあなたのパスワードを使ってログインできます。同時に、あなたのFactorioアカウントをこのSteamアカウントに紐付けします。
+If you have a Factorio account, you can log in using your password instead. This will also link your Factorio account to this console's account.;Factorioアカウントを所持している場合、代わりにあなたのパスワードを使ってログインできます。同時に、あなたのFactorioアカウントをこのコンソールアカウントに紐付けします。
+You are authenticated using Steam. Choose a username to use for Factorio. This will be your nickname in multiplayer games. It can be changed one time on our website.;あなたはSteamを通して認証されています。Factorioで使用するユーザーネームを選択してください。ここで選択した名前はマルチプレイゲームのおいてあなたのニックネームになります。我々のウェブサイトで一度だけ変更が可能です。
+Choose a username to use for Factorio. This will be your nickname in multiplayer games. It can not be changed.;Factorioで使用するユーザーネームを選択してください。ここで選択した名前はマルチプレイゲームのおいてあなたのニックネームになります。これは変更できません。
+Creating account;アカウントを作成しています
+You are now authenticated as __1__ through Steam. If you want to use this account without Steam, log in with Steam on __2__ and set an email and password in your profile.;あなたは現在Steamを通して__1__として認証されています。Steamを通さずにこのアカウントを使いたい場合、Steamで__2__にログインし、あなたのプロファイルにEメールとパスワードを設定してください。
+Account created successfully. You are now authenticated as __1__.;アカウントが正常に作成されました。あなたは現在__1__として認証されています。
+This account already has an email assigned. The assigned email address is __1__;このアカウントにはすでにメールアドレスが割り当てられています。割り当てられたメールアドレスは __1__ です。
+Set email;メールアドレスを設定
+This account does not have an email assigned. Add an email and password to use this account on other platforms or consoles.;このアカウントにはメールアドレスが割り当てられていません。他のプラットフォームやゲーム機でこのアカウントを使用するには、メールアドレスとパスワードを追加してください。
+E-mail;Eメールアドレス
+E-mail can't be empty.;メールアドレス欄を空白にしておくことはできません
+E-mail address is invalid.;メールアドレスが正しくありません。
+Setting email;メールアドレスの設定
+An email was sent to __1__. Please follow the instructions to confirm the email and set a password.;__1__にメールが送信されました。指示に従ってメールを確認し、パスワードを設定してください。
+Easy;イージー
+Hard;ハード
+Inventory is full.;インベントリが一杯です。
+__1__ cannot be used as fuel.;__1__ は、燃料として使用できません。
+__1__ cannot be smelted.;__1__ は精錬することができない。
+__1__ cannot be used as ammo for __2__.;__1__ は __2__ の弾薬として使うことができない。
+__1__ cannot be used as ammo.;__1__ は弾薬として使うことができない。
+__1__ cannot be used as a weapon.;__1__ は武器として使うことができない。
+__1__ cannot shoot __2__.;__1__ は __2__ を撃つことができない。
+__1__ cannot be used as armor.;__1__ をアーマーとして装備できない。
+You cannot insert anything into an assembling machine when no recipe is set.;レシピが設定されていないため、組立機に素材を入れることはできません！
+Only __1__ can be inserted here, not __2__.;ここには __1__ しか入れられません。 __2__ は入れることができません。
+This slot is reserved for the cursor.;スロットはカーソルで予約されています。
+__1__ cannot be inserted here.;__1__はここに挿入できません。
+You cannot insert an item into itself.;アイテムをアイテム自身に入れることはできません。
+Only __1__ can be inserted into this slot. If you want to put something else here, the filter has to be cleared.;このスロットには__1__しか入れることができません。他のアイテムを入れるには、フィルターを解除してください。
+Only modules can be inserted into this slot.;モジュール専用のスロットです。
+Cannot insert more items into this slot.;スロットにこれ以上アイテムを入れることはできません。
+__1__ cannot be used in __2__;__1__ は __2__ で使用することができない。
+Cannot insert __1__. __2__;__1__を持てません。 __2__
+__1__ cannot be fueled with __2__.;__2__は__1__の燃料には使えません。
+Remaining time: __1__;残り時間: __1__
+This can only be obtained by playing a new game.;この実績は、新規ゲームでのみ取得できます。
+A console command was used. The achievement cannot be unlocked in this game anymore.;コンソールコマンドが使用されました。このゲームでは実績を解除できなくなりました。
+The Map Editor was used. The achievement cannot be unlocked in this game anymore.;マップエディタが使用されました。このゲームでは実績を獲得できなくなりました。
+This achievement can only be unlocked on a freeplay map.;この実績はフリープレイのマップでのみ解除できます。
+This achievement cannot be unlocked in peaceful mode.;ピースフルモードでは、この実績を解除できません。
+This achievement cannot be unlocked when enemy bases are set lower than default.;この実績はバイターの巣の設定がデフォルトよりも少ない場合はアンロックできません。
+Manually: __1__ By robots: __2__;手動: __1__ ロボット: __2__
+Crafted manually: __1__;手動での製作回数: __1__
+Biggest damage in one hit: __1__;一撃での最大ダメージ: __1__
+Downloads;ダウンロード
+Trending;トレンド
+Last updated;最終更新日
+Filter by category;カテゴリで絞り込み
+Add to bookmarks;ブックマークに追加
+Remove from bookmarks;ブックマークから削除
+Show only bookmarked mods;ブックマークしたMODのみ表示
+Waiting for mod portal...;Modポータルを待っています...
+Install failed for __1__: __2__;__1__ のインストールに失敗しました: __2__
+Failed to download mods list;Mod リストのダウンロードに失敗しました
+Mod __1__ is already installed;Mod __1__ はすでにインストールされています。
+There is no compatible version of __1__ on the mod portal.;__1__と互換性のあるバージョンはModポータル上に存在しません。
+Unable to install all required dependencies for __1__: __2__. Would you like to install the mod without dependencies?;__1__が依存しているModの全てをインストールできませんでした: __2__ 。このModを依存しているMod抜きでインストールしますか？
+Local version;手元のバージョン
+Update selected;選択されたものを更新
+Checking for updates;更新を確認中
+Retrying failed request:;失敗したリクエストを再試行中:
+All mods are up to date;すべての MOD は最新です
+Unable to check for updates;更新を確認できません
+Unable to check for updates: not logged in;更新を確認できません : ログインしていません
+Unable to install all required dependencies for the selected mods: __1__. Would you like to update the mods without dependencies?;選択されたModが依存しているModの全てをインストールできませんでした: __1__ 。このModを依存しているMod抜きでアップデートしますか？
+Currently downloading;現在のダウンロード数
+nothing;なし
+Mods to be disabled:;次のMODは無効化されます:
+Reset mod settings;MOD設定をリセット
+Disable listed mods;列挙したMODを無効化
+Mod manager;Modマネージャー
+Tag properties;タグ
+New tag;新規タグ
+Snapping;自動調整(マップのマス目に対して)
+Objective complete;目標達成
+New crafting recipes available;新たな製作レシピが利用可能
+Research complete!;研究が完了しました!
+New technologies available for research;新しく研究できる技術
+__ALT_CONTROL_LEFT_CLICK__1__ to grab blueprint;__ALT_CONTROL_LEFT_CLICK__1__ で建設計画を取得
+__ALT_CONTROL_LEFT_CLICK__1__ to grab blueprint book;__ALT_CONTROL_LEFT_CLICK__1__ で建設計画の本を取得
+Name:;名前:
+Invalid position specified;無効な地点が指定されました
+Position:;場所:
+__ALT_CONTROL_LEFT_CLICK__1__ to view;__ALT_CONTROL_LEFT_CLICK__1__ で表示
+__ALT_CONTROL_LEFT_CLICK__1__ to open train;__ALT_CONTROL_LEFT_CLICK__1__ で機関車を開く
+Train stop: __1__;駅: __1__
+__ALT_CONTROL_LEFT_CLICK__1__ to open train stop;__ALT_CONTROL_LEFT_CLICK__1__ で駅を開く
+Invalid train;無効な列車
+Invalid train stop;無効な駅
+Blueprint;建設計画
+Contains __1__ __plural_for_parameter_1_{1=blueprint|rest=blueprints}__;__1__つの建設計画を含む
+Train: __1__;列車: __1__
+[__1__: __2__];[__1__: __2__]
+[__1__];[__1__]
+[Unknown Item];[不明なアイテム]
+[Recipe: __1__];[レシピ: __1__]
+[Item: __1__];[アイテム: __1__]
+[Fluid: __1__];[流体: __1__]
+[Tile: __1__];[タイル: __1__]
+[Entity: __1__];[エンティティ: __1__]
+[Virtual Signal: __1__];[仮想信号: __1__]
+[Technology: __1__];[技術: __1__]
+[Achievement: __1__];[実績: __1__]
+[Item Group: __1__];[アイテムグループ: __1__]
+[Armor: __1__];[アーマー: __1__]
+[Location: __1__];[場所: __1__]
+[Train: __1__];[列車: __1__]
+[Train];[列車]
+[Train stop: __1__];[駅: __1__]
+[Train stop];[駅]
+Black;ブラック
+Brown;ブラウン
+Cyan;シアン
+Gray;グレー
+Orange;オレンジ
+Pink;ピンク
+Purple;パープル
+White;ホワイト
+Acid;アシッド
+Starting lake noise amplitude;スタートエリア内の湖のノイズ振幅
+Swamps;湿地
+Island;島
+Starting plateau only;高原のみで開始
+Islands and continents;島と大陸
+Endless ocean;無限の海
+Endless plateau;無限の高原
+1/4;1/4
+1/2;1/2
+3/4;3/4
+3/2;3/2
+2;2
+3;3
+4;4
+A;A
+Undo construction of __1__;__1__の建設をアンドゥ
+Undo placement of __1__;__1__の設置をアンドゥ
+Undo deconstruction of __1__;__1__の解体をアンドゥ
+Undo removal of __1__;__1__の撤去をアンドゥ
+Undo upgrade of __1__;__1__ のアップグレードを元に戻す
+Undo construction of __1__ (× __2__);__1__ (× __2__)の建設をアンドゥ
+Undo placement of __1__ (× __2__);__1__ (× __2__)の設置をアンドゥ
+Undo deconstruction of __1__ (× __2__);__1__ (× __2__)の解体をアンドゥ
+Undo removal of __1__ (× __2__);__1__ (× __2__)の撤去をアンドゥ
+Undo upgrade of __1__ (× __2__);__1__ のアップグレードを元に戻す (× __2__)
+Undo construction of __1__ entities;__1__施設の建設をアンドゥ
+Undo placement of __1__ tiles;__1__タイルの配置をアンドゥ
+Undo deconstruction of __1__ entities;__1__施設の解体をアンドゥ
+Undo removal of __1__ tiles;__1__タイルの撤去をアンドゥ
+Undo upgrade of __1__ entities;__1__ のアップグレードを元に戻す
+Elapsed: __1__ms;経過: __1__ms
+Failed to initialize DirectX. Factorio requires DirectX 10 compatible graphics card or better.;DirectXの初期化に失敗しました。Factorio は DirectX 10 以降に対応したグラフィックカードが必要です。
+Factorio requires OpenGL version __1__ or higher. The version available on this computer is __2__.;Factorio は OpenGL バージョン __1__ 以上が必要です。このコンピューターではバージョン__2__ を利用可能です。
+Not enough video memory. Try lowering the sprite resolution or enabling texture compression.;ビデオメモリが不足しています。スプライト解像度の低減やテクスチャ圧縮の有効化を試してください。
+Do you wish to reset the graphics settings?;グラフィック設定をリセットしますか？
+Keep;維持
+Detected GPU: __1__;検出したGPU: __1__
+Factorio crashed due to video card reset or removal.;Factorioはビデオカードのリセットまたは取り外しによりクラッシュしました。
+The video card has been physically removed from the system, or a driver update for the video card has occurred.;ビデオカードがシステムから物理的に取り外されたか、ビデオカードのドライバが更新されました。
+Error: __1__. Reason: __2__;エラー: __1__ 　原因：__2__
+If you see this error often, try rebooting the PC or updating your graphics drivers.\nThe PC might also be unstable due to overclocking or overheating.;このエラーが頻繁に表示される場合は、PCを再起動するか、グラフィックドライバーを更新してみてください。\nオーバークロックやオーバーヒートによりPCが不安定になっている可能性もあります。
+As a possible workaround, you can try switching Factorio to the OpenGL renderer.;FactorioをOpenGLレンダラーへ切り替えてみることも取りうる回避策です。
+Use OpenGL;OpenGLを利用
