@@ -1,0 +1,1 @@
+An Anki deck made by aligning strings from English and Japanese locales of Factorio.
